@@ -78,7 +78,9 @@
     "format:check": "prettier -c .",
     "verify-docs": "typescript-docs-verifier --project tsconfig.docs.json --input-files README.md docs/*.md",
     "verify-madge": "madge --extensions ts --circular src",
-    "verify": "npm run build && npm run format:check && npm run verify-docs && npm run verify-madge && npm run test"
+    "verify": "npm run build && npm run format:check && npm run verify-docs && npm run verify-madge && npm run test",
+    "generate-api-report": "api-extractor run",
+    "generate-api-docs": "api-documenter markdown -i temp/ -o docs/api/"
   },
   "keywords": [
     "mls",
