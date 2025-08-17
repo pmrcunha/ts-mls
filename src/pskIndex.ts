@@ -5,6 +5,12 @@ import { PreSharedKeyID, updatePskSecret } from "./presharedkey"
 export interface PskIndex {
   findPsk(preSharedKeyId: PreSharedKeyID): Uint8Array | undefined
 }
+
+/**
+ * An empty PskIndex.
+ *
+ * @public
+ * */
 export const emptyPskIndex: PskIndex = {
   findPsk(_preSharedKeyId) {
     return undefined

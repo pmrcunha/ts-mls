@@ -688,6 +688,11 @@ export async function applyProposals(
   }
 }
 
+/**
+ * Returns a psk index.
+ *
+ * @public
+ * */
 export function makePskIndex(state: ClientState | undefined, externalPsks: Record<string, Uint8Array>): PskIndex {
   return {
     findPsk(preSharedKeyId) {
@@ -723,6 +728,11 @@ export async function nextEpochContext(
   }
 }
 
+/**
+ * Adds a user to a group.
+ *
+ * @public
+ * */
 export async function joinGroup(
   welcome: Welcome,
   keyPackage: KeyPackage,
@@ -863,6 +873,11 @@ export async function joinGroup(
   }
 }
 
+/**
+ * Creates a chat group.
+ *
+ * @public
+ * */
 export async function createGroup(
   groupId: Uint8Array,
   keyPackage: KeyPackage,

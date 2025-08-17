@@ -3,6 +3,11 @@ import { contramapEncoders, Encoder } from "./codec/tlsEncoder"
 import { decodeVarLenData, decodeVarLenType, encodeVarLenData, encodeVarLenType } from "./codec/variableLength"
 import { CredentialTypeName, decodeCredentialType, encodeCredentialType } from "./credentialType"
 
+/**
+ * A user's credential, used to generate a key package.
+ *
+ * @public
+ * */
 export type Credential = CredentialBasic | CredentialX509
 
 export interface CredentialBasic {

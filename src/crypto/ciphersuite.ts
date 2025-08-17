@@ -60,10 +60,20 @@ export function getCiphersuiteFromId(id: CiphersuiteId): Ciphersuite {
   return ciphersuiteValues[id]
 }
 
+/**
+ * Returns the values that describe a given ciphersuite.
+ *
+ * @public
+ * */
 export function getCiphersuiteFromName(name: CiphersuiteName): Ciphersuite {
   return ciphersuiteValues[ciphersuites[name]]
 }
 
+/**
+ * Returns a ciphersuite implementation, given the values that describe it.
+ *
+ * @public
+ * */
 export async function getCiphersuiteImpl(cs: Ciphersuite): Promise<CiphersuiteImpl> {
   const sc = crypto.subtle
   return {

@@ -87,6 +87,11 @@ export interface PrivateKeyPackage {
   signaturePrivateKey: Uint8Array
 }
 
+/**
+ * Generates a key package from a Credential.
+ *
+ * @public
+ * */
 export async function generateKeyPackage(
   credential: Credential,
   capabilities: Capabilities,
