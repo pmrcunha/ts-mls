@@ -9,7 +9,7 @@ Returns the values that describe a given ciphersuite.
 **Signature:**
 
 ```typescript
-export declare function getCiphersuiteFromName(name: CiphersuiteName): Ciphersuite;
+export declare function getCiphersuiteFromName(name: CiphersuiteName): Ciphersuite
 ```
 
 ## Parameters
@@ -18,30 +18,24 @@ export declare function getCiphersuiteFromName(name: CiphersuiteName): Ciphersui
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 name
 
-
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -49,4 +43,3 @@ name
 **Returns:**
 
 [Ciphersuite](./ts-mls.ciphersuite.md)
-

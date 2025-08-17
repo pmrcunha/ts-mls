@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface FramedContentProposalData 
+export interface FramedContentProposalData
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface FramedContentProposalData
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [contentType](./ts-mls.framedcontentproposaldata.contenttype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "proposal"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposal](./ts-mls.framedcontentproposaldata.proposal.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Proposal](./ts-mls.proposal.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

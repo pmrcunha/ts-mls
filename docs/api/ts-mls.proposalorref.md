@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type ProposalOrRef = ProposalOrRefProposal | ProposalOrRefProposalRef;
+export type ProposalOrRef = ProposalOrRefProposal | ProposalOrRefProposalRef
 ```
-**References:** [ProposalOrRefProposal](./ts-mls.proposalorrefproposal.md)<!-- -->, [ProposalOrRefProposalRef](./ts-mls.proposalorrefproposalref.md)
 
+**References:** [ProposalOrRefProposal](./ts-mls.proposalorrefproposal.md)<!-- -->, [ProposalOrRefProposalRef](./ts-mls.proposalorrefproposalref.md)

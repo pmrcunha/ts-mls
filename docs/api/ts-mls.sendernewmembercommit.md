@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface SenderNewMemberCommit 
+export interface SenderNewMemberCommit
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface SenderNewMemberCommit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [senderType](./ts-mls.sendernewmembercommit.sendertype.md)
 
+</td><td>
 
 </td><td>
 
+"new_member_commit"
 
 </td><td>
-
-"new\_member\_commit"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

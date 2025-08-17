@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-commit: Commit;
+commit: Commit
 ```

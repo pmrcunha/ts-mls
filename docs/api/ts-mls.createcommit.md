@@ -7,7 +7,15 @@
 **Signature:**
 
 ```typescript
-export declare function createCommit(state: ClientState, pskSearch: PskIndex, publicMessage: boolean, extraProposals: Proposal[], cs: CiphersuiteImpl, ratchetTreeExtension?: boolean, authenticatedData?: Uint8Array): Promise<CreateCommitResult>;
+export declare function createCommit(
+  state: ClientState,
+  pskSearch: PskIndex,
+  publicMessage: boolean,
+  extraProposals: Proposal[],
+  cs: CiphersuiteImpl,
+  ratchetTreeExtension?: boolean,
+  authenticatedData?: Uint8Array,
+): Promise<CreateCommitResult>
 ```
 
 ## Parameters
@@ -16,118 +24,94 @@ export declare function createCommit(state: ClientState, pskSearch: PskIndex, pu
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pskSearch
 
-
 </td><td>
 
 [PskIndex](./ts-mls.pskindex.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 publicMessage
 
-
 </td><td>
 
 boolean
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 extraProposals
 
-
 </td><td>
 
 [Proposal](./ts-mls.proposal.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 ratchetTreeExtension
 
-
 </td><td>
 
 boolean
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 <tr><td>
 
 authenticatedData
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -135,4 +119,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;[CreateCommitResult](./ts-mls.createcommitresult.md)<!-- -->&gt;
-

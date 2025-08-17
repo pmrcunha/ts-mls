@@ -16,72 +16,57 @@ decryptAead(key: Uint8Array, nonce: Uint8Array, aad: Uint8Array | undefined, cip
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 key
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 nonce
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 aad
 
-
 </td><td>
 
 Uint8Array \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 ciphertext
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -89,4 +74,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

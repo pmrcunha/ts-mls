@@ -16,58 +16,46 @@ expand(prk: Uint8Array, info: Uint8Array, len: number): Promise<Uint8Array>;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 prk
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 info
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 len
 
-
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -75,4 +63,3 @@ number
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

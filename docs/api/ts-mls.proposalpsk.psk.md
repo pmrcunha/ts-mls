@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-psk: PSK;
+psk: PSK
 ```

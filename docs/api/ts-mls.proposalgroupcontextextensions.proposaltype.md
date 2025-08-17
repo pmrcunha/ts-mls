@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: "group_context_extensions";
+proposalType: "group_context_extensions"
 ```

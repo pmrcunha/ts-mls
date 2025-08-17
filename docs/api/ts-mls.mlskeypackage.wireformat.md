@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-wireformat: "mls_key_package";
+wireformat: "mls_key_package"
 ```

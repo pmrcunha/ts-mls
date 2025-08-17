@@ -7,15 +7,17 @@
 **Signature:**
 
 ```typescript
-export type ProcessMessageResult = {
-    kind: "newState";
-    newState: ClientState;
-    actionTaken: IncomingMessageAction;
-} | {
-    kind: "applicationMessage";
-    message: Uint8Array;
-    newState: ClientState;
-};
+export type ProcessMessageResult =
+  | {
+      kind: "newState"
+      newState: ClientState
+      actionTaken: IncomingMessageAction
+    }
+  | {
+      kind: "applicationMessage"
+      message: Uint8Array
+      newState: ClientState
+    }
 ```
-**References:** [ClientState](./ts-mls.clientstate.md)<!-- -->, [IncomingMessageAction](./ts-mls.incomingmessageaction.md)
 
+**References:** [ClientState](./ts-mls.clientstate.md)<!-- -->, [IncomingMessageAction](./ts-mls.incomingmessageaction.md)

@@ -7,11 +7,13 @@
 **Signature:**
 
 ```typescript
-export type PaddingConfig = {
-    kind: "padUntilLength";
-    padUntilLength: number;
-} | {
-    kind: "alwaysPad";
-    paddingLength: number;
-};
+export type PaddingConfig =
+  | {
+      kind: "padUntilLength"
+      padUntilLength: number
+    }
+  | {
+      kind: "alwaysPad"
+      paddingLength: number
+    }
 ```

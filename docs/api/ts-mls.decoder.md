@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-export type Decoder<T> = (b: Uint8Array, offset: number) => [T, number] | undefined;
+export type Decoder<T> = (b: Uint8Array, offset: number) => [T, number] | undefined
 ```

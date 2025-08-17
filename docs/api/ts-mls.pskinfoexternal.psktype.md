@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-psktype: "external";
+psktype: "external"
 ```

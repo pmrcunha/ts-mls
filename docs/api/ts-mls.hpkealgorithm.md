@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface HpkeAlgorithm 
+export interface HpkeAlgorithm
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface HpkeAlgorithm
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [aead](./ts-mls.hpkealgorithm.aead.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [AeadAlgorithm](./ts-mls.aeadalgorithm.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [kdf](./ts-mls.hpkealgorithm.kdf.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [KdfAlgorithm](./ts-mls.kdfalgorithm.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [kem](./ts-mls.hpkealgorithm.kem.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [KemAlgorithm](./ts-mls.kemalgorithm.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

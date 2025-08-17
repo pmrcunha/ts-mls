@@ -16,44 +16,35 @@ validateCredential(credential: Credential, signaturePublicKey: Uint8Array): Prom
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 credential
 
-
 </td><td>
 
 [Credential](./ts-mls.credential_2.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 signaturePublicKey
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -61,4 +52,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;boolean&gt;
-

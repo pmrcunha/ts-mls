@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type LeafNodeInfo = LeafNodeInfoKeyPackage | LeafNodeInfoUpdate | LeafNodeInfoCommit;
+export type LeafNodeInfo = LeafNodeInfoKeyPackage | LeafNodeInfoUpdate | LeafNodeInfoCommit
 ```
-**References:** [LeafNodeInfoKeyPackage](./ts-mls.leafnodeinfokeypackage.md)<!-- -->, [LeafNodeInfoUpdate](./ts-mls.leafnodeinfoupdate.md)<!-- -->, [LeafNodeInfoCommit](./ts-mls.leafnodeinfocommit.md)
 
+**References:** [LeafNodeInfoKeyPackage](./ts-mls.leafnodeinfokeypackage.md)<!-- -->, [LeafNodeInfoUpdate](./ts-mls.leafnodeinfoupdate.md)<!-- -->, [LeafNodeInfoCommit](./ts-mls.leafnodeinfocommit.md)

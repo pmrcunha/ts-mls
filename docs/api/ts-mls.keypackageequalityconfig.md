@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface KeyPackageEqualityConfig 
+export interface KeyPackageEqualityConfig
 ```
 
 ## Methods
@@ -16,30 +16,23 @@ export interface KeyPackageEqualityConfig
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [compareKeyPackages(a, b)](./ts-mls.keypackageequalityconfig.comparekeypackages.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [compareKeyPackageToLeafNode(a, b)](./ts-mls.keypackageequalityconfig.comparekeypackagetoleafnode.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

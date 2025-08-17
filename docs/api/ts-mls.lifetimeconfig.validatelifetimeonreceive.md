@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-validateLifetimeOnReceive: boolean;
+validateLifetimeOnReceive: boolean
 ```

@@ -8,8 +8,8 @@
 
 ```typescript
 export type FramedContentAuthDataApplicationOrProposal = {
-    signature: Uint8Array;
-} & FramedContentAuthDataContentApplicationOrProposal;
+  signature: Uint8Array
+} & FramedContentAuthDataContentApplicationOrProposal
 ```
-**References:** [FramedContentAuthDataContentApplicationOrProposal](./ts-mls.framedcontentauthdatacontentapplicationorproposal.md)
 
+**References:** [FramedContentAuthDataContentApplicationOrProposal](./ts-mls.framedcontentauthdatacontentapplicationorproposal.md)

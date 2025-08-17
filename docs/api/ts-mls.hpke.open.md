@@ -16,88 +16,70 @@ open(privateKey: PrivateKey, kemOutput: Uint8Array, ciphertext: Uint8Array, info
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 privateKey
 
-
 </td><td>
 
 [PrivateKey](./ts-mls.privatekey.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 kemOutput
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 ciphertext
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 info
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 aad
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -105,4 +87,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

@@ -8,8 +8,8 @@
 
 ```typescript
 type PublicMessageInfoMemberOther = {
-    senderType: Exclude<SenderTypeName, "member">;
-};
+  senderType: Exclude<SenderTypeName, "member">
+}
 ```
-**References:** [SenderTypeName](./ts-mls.sendertypename.md)
 
+**References:** [SenderTypeName](./ts-mls.sendertypename.md)

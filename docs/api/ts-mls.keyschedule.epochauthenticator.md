@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-epochAuthenticator: Uint8Array;
+epochAuthenticator: Uint8Array
 ```

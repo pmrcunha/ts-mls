@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type FramedContentInfo = FramedContentApplicationData | FramedContentProposalData | FramedContentCommitData;
+export type FramedContentInfo = FramedContentApplicationData | FramedContentProposalData | FramedContentCommitData
 ```
-**References:** [FramedContentApplicationData](./ts-mls.framedcontentapplicationdata.md)<!-- -->, [FramedContentProposalData](./ts-mls.framedcontentproposaldata.md)<!-- -->, [FramedContentCommitData](./ts-mls.framedcontentcommitdata.md)
 
+**References:** [FramedContentApplicationData](./ts-mls.framedcontentapplicationdata.md)<!-- -->, [FramedContentProposalData](./ts-mls.framedcontentproposaldata.md)<!-- -->, [FramedContentCommitData](./ts-mls.framedcontentcommitdata.md)

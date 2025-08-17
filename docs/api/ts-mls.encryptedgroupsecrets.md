@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface EncryptedGroupSecrets 
+export interface EncryptedGroupSecrets
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface EncryptedGroupSecrets
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [encryptedGroupSecrets](./ts-mls.encryptedgroupsecrets.encryptedgroupsecrets.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [HPKECiphertext](./ts-mls.hpkeciphertext.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [newMember](./ts-mls.encryptedgroupsecrets.newmember.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PSKInfoResumption 
+export interface PSKInfoResumption
 ```
 
 ## Properties
@@ -16,90 +16,69 @@ export interface PSKInfoResumption
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [pskEpoch](./ts-mls.pskinforesumption.pskepoch.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [pskGroupId](./ts-mls.pskinforesumption.pskgroupid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [psktype](./ts-mls.pskinforesumption.psktype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "resumption"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [usage](./ts-mls.pskinforesumption.usage.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ResumptionPSKUsageName](./ts-mls.resumptionpskusagename.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

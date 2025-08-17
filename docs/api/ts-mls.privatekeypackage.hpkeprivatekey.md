@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-hpkePrivateKey: Uint8Array;
+hpkePrivateKey: Uint8Array
 ```

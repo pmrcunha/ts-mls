@@ -7,7 +7,15 @@
 **Signature:**
 
 ```typescript
-export declare function reinitCreateNewGroup(state: ClientState, keyPackage: KeyPackage, privateKeyPackage: PrivateKeyPackage, memberKeyPackages: KeyPackage[], groupId: Uint8Array, cipherSuite: CiphersuiteName, extensions: Extension[]): Promise<CreateCommitResult>;
+export declare function reinitCreateNewGroup(
+  state: ClientState,
+  keyPackage: KeyPackage,
+  privateKeyPackage: PrivateKeyPackage,
+  memberKeyPackages: KeyPackage[],
+  groupId: Uint8Array,
+  cipherSuite: CiphersuiteName,
+  extensions: Extension[],
+): Promise<CreateCommitResult>
 ```
 
 ## Parameters
@@ -16,114 +24,90 @@ export declare function reinitCreateNewGroup(state: ClientState, keyPackage: Key
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeyPackage
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 memberKeyPackages
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 groupId
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cipherSuite
 
-
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 extensions
 
-
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -131,4 +115,3 @@ extensions
 **Returns:**
 
 Promise&lt;[CreateCommitResult](./ts-mls.createcommitresult.md)<!-- -->&gt;
-

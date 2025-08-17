@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-export type HashAlgorithm = "SHA-512" | "SHA-384" | "SHA-256";
+export type HashAlgorithm = "SHA-512" | "SHA-384" | "SHA-256"
 ```

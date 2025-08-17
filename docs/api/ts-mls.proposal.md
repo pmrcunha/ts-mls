@@ -7,7 +7,15 @@
 **Signature:**
 
 ```typescript
-export type Proposal = ProposalAdd | ProposalUpdate | ProposalRemove | ProposalPSK | ProposalReinit | ProposalExternalInit | ProposalGroupContextExtensions | ProposalCustom;
+export type Proposal =
+  | ProposalAdd
+  | ProposalUpdate
+  | ProposalRemove
+  | ProposalPSK
+  | ProposalReinit
+  | ProposalExternalInit
+  | ProposalGroupContextExtensions
+  | ProposalCustom
 ```
-**References:** [ProposalAdd](./ts-mls.proposaladd.md)<!-- -->, [ProposalUpdate](./ts-mls.proposalupdate.md)<!-- -->, [ProposalRemove](./ts-mls.proposalremove.md)<!-- -->, [ProposalPSK](./ts-mls.proposalpsk.md)<!-- -->, [ProposalReinit](./ts-mls.proposalreinit.md)<!-- -->, [ProposalExternalInit](./ts-mls.proposalexternalinit.md)<!-- -->, [ProposalGroupContextExtensions](./ts-mls.proposalgroupcontextextensions.md)<!-- -->, [ProposalCustom](./ts-mls.proposalcustom.md)
 
+**References:** [ProposalAdd](./ts-mls.proposaladd.md)<!-- -->, [ProposalUpdate](./ts-mls.proposalupdate.md)<!-- -->, [ProposalRemove](./ts-mls.proposalremove.md)<!-- -->, [ProposalPSK](./ts-mls.proposalpsk.md)<!-- -->, [ProposalReinit](./ts-mls.proposalreinit.md)<!-- -->, [ProposalExternalInit](./ts-mls.proposalexternalinit.md)<!-- -->, [ProposalGroupContextExtensions](./ts-mls.proposalgroupcontextextensions.md)<!-- -->, [ProposalCustom](./ts-mls.proposalcustom.md)

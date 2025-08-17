@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-commit: MLSMessage;
+commit: MLSMessage
 ```

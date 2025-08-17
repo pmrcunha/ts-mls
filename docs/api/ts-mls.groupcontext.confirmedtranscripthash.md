@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-confirmedTranscriptHash: Uint8Array;
+confirmedTranscriptHash: Uint8Array
 ```

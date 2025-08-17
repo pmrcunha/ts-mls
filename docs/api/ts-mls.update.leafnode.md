@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-leafNode: LeafNodeUpdate;
+leafNode: LeafNodeUpdate
 ```

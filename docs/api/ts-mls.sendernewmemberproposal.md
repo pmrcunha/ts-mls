@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface SenderNewMemberProposal 
+export interface SenderNewMemberProposal
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface SenderNewMemberProposal
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [senderType](./ts-mls.sendernewmemberproposal.sendertype.md)
 
+</td><td>
 
 </td><td>
 
+"new_member_proposal"
 
 </td><td>
-
-"new\_member\_proposal"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

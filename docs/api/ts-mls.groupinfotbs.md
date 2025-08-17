@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface GroupInfoTBS 
+export interface GroupInfoTBS
 ```
 
 ## Properties
@@ -16,90 +16,69 @@ export interface GroupInfoTBS
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [confirmationTag](./ts-mls.groupinfotbs.confirmationtag.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extensions](./ts-mls.groupinfotbs.extensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [groupContext](./ts-mls.groupinfotbs.groupcontext.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [GroupContext](./ts-mls.groupcontext.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [signer](./ts-mls.groupinfotbs.signer.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

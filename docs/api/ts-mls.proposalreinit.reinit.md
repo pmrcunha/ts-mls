@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-reinit: Reinit;
+reinit: Reinit
 ```

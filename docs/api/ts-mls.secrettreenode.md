@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface SecretTreeNode 
+export interface SecretTreeNode
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface SecretTreeNode
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [application](./ts-mls.secrettreenode.application.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [GenerationSecret](./ts-mls.generationsecret.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [handshake](./ts-mls.secrettreenode.handshake.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [GenerationSecret](./ts-mls.generationsecret.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

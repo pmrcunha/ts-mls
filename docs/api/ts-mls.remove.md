@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Remove 
+export interface Remove
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface Remove
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [removed](./ts-mls.remove.removed.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

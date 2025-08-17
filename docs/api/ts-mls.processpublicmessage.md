@@ -7,7 +7,13 @@
 **Signature:**
 
 ```typescript
-export declare function processPublicMessage(state: ClientState, pm: PublicMessage, pskSearch: PskIndex, cs: CiphersuiteImpl, callback?: IncomingMessageCallback): Promise<NewStateWithActionTaken>;
+export declare function processPublicMessage(
+  state: ClientState,
+  pm: PublicMessage,
+  pskSearch: PskIndex,
+  cs: CiphersuiteImpl,
+  callback?: IncomingMessageCallback,
+): Promise<NewStateWithActionTaken>
 ```
 
 ## Parameters
@@ -16,88 +22,70 @@ export declare function processPublicMessage(state: ClientState, pm: PublicMessa
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pm
 
-
 </td><td>
 
 [PublicMessage](./ts-mls.publicmessage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pskSearch
 
-
 </td><td>
 
 [PskIndex](./ts-mls.pskindex.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 callback
 
-
 </td><td>
 
 [IncomingMessageCallback](./ts-mls.incomingmessagecallback.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -105,4 +93,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;[NewStateWithActionTaken](./ts-mls.newstatewithactiontaken.md)<!-- -->&gt;
-

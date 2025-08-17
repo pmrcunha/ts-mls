@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface LeafNodeInfoCommit 
+export interface LeafNodeInfoCommit
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface LeafNodeInfoCommit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [leafNodeSource](./ts-mls.leafnodeinfocommit.leafnodesource.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "commit"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [parentHash](./ts-mls.leafnodeinfocommit.parenthash.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalRemove 
+export interface ProposalRemove
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalRemove
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposalType](./ts-mls.proposalremove.proposaltype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "remove"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [remove](./ts-mls.proposalremove.remove.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Remove](./ts-mls.remove.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

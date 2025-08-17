@@ -16,44 +16,35 @@ sign(signKey: Uint8Array, message: Uint8Array): Promise<Uint8Array>;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 signKey
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 message
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -61,4 +52,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

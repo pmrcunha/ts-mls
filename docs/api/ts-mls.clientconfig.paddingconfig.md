@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-paddingConfig: PaddingConfig;
+paddingConfig: PaddingConfig
 ```

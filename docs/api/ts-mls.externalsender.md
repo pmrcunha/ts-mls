@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ExternalSender 
+export interface ExternalSender
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ExternalSender
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [credential](./ts-mls.externalsender.credential.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Credential](./ts-mls.credential_2.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [signaturePublicKey](./ts-mls.externalsender.signaturepublickey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -7,9 +7,11 @@
 **Signature:**
 
 ```typescript
-export type LeafNode = LeafNodeData & LeafNodeInfo & LeafNodeExtensions & {
-    signature: Uint8Array;
-};
+export type LeafNode = LeafNodeData &
+  LeafNodeInfo &
+  LeafNodeExtensions & {
+    signature: Uint8Array
+  }
 ```
-**References:** [LeafNodeData](./ts-mls.leafnodedata.md)<!-- -->, [LeafNodeInfo](./ts-mls.leafnodeinfo.md)<!-- -->, [LeafNodeExtensions](./ts-mls.leafnodeextensions.md)
 
+**References:** [LeafNodeData](./ts-mls.leafnodedata.md)<!-- -->, [LeafNodeInfo](./ts-mls.leafnodeinfo.md)<!-- -->, [LeafNodeExtensions](./ts-mls.leafnodeextensions.md)

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-remove: Remove;
+remove: Remove
 ```

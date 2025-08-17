@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface HPKECiphertext 
+export interface HPKECiphertext
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface HPKECiphertext
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [ciphertext](./ts-mls.hpkeciphertext.ciphertext.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [kemOutput](./ts-mls.hpkeciphertext.kemoutput.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

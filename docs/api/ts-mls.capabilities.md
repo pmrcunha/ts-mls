@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Capabilities 
+export interface Capabilities
 ```
 
 ## Properties
@@ -16,107 +16,82 @@ export interface Capabilities
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [ciphersuites](./ts-mls.capabilities.ciphersuites.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [credentials](./ts-mls.capabilities.credentials.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CredentialTypeName](./ts-mls.credentialtypename.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extensions](./ts-mls.capabilities.extensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposals](./ts-mls.capabilities.proposals.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [versions](./ts-mls.capabilities.versions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ProtocolVersionName](./ts-mls.protocolversionname.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

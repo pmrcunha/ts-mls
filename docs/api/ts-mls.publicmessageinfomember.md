@@ -8,7 +8,7 @@
 
 ```typescript
 type PublicMessageInfoMember = {
-    senderType: "member";
-    membershipTag: Uint8Array;
-};
+  senderType: "member"
+  membershipTag: Uint8Array
+}
 ```

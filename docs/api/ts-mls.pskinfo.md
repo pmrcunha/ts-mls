@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type PSKInfo = PSKInfoExternal | PSKInfoResumption;
+export type PSKInfo = PSKInfoExternal | PSKInfoResumption
 ```
-**References:** [PSKInfoExternal](./ts-mls.pskinfoexternal.md)<!-- -->, [PSKInfoResumption](./ts-mls.pskinforesumption.md)
 
+**References:** [PSKInfoExternal](./ts-mls.pskinfoexternal.md)<!-- -->, [PSKInfoResumption](./ts-mls.pskinforesumption.md)

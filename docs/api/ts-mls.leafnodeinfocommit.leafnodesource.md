@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-leafNodeSource: "commit";
+leafNodeSource: "commit"
 ```

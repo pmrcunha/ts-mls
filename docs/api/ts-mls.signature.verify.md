@@ -16,58 +16,46 @@ verify(publicKey: Uint8Array, message: Uint8Array, signature: Uint8Array): Promi
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 publicKey
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 message
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 signature
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -75,4 +63,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;boolean&gt;
-

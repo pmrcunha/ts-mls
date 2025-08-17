@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalExternalInit 
+export interface ProposalExternalInit
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalExternalInit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [externalInit](./ts-mls.proposalexternalinit.externalinit.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ExternalInit](./ts-mls.externalinit.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposalType](./ts-mls.proposalexternalinit.proposaltype.md)
 
+</td><td>
 
 </td><td>
 
+"external_init"
 
 </td><td>
-
-"external\_init"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

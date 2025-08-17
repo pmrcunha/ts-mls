@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface CredentialX509 
+export interface CredentialX509
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface CredentialX509
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [certificates](./ts-mls.credentialx509.certificates.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [credentialType](./ts-mls.credentialx509.credentialtype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "x509"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

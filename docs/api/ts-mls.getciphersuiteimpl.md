@@ -9,7 +9,7 @@ Returns a ciphersuite implementation, given the values that describe it.
 **Signature:**
 
 ```typescript
-export declare function getCiphersuiteImpl(cs: Ciphersuite): Promise<CiphersuiteImpl>;
+export declare function getCiphersuiteImpl(cs: Ciphersuite): Promise<CiphersuiteImpl>
 ```
 
 ## Parameters
@@ -18,30 +18,24 @@ export declare function getCiphersuiteImpl(cs: Ciphersuite): Promise<Ciphersuite
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 cs
 
-
 </td><td>
 
 [Ciphersuite](./ts-mls.ciphersuite.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -49,4 +43,3 @@ cs
 **Returns:**
 
 Promise&lt;[CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)<!-- -->&gt;
-

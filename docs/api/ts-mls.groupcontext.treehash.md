@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-treeHash: Uint8Array;
+treeHash: Uint8Array
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalCustom 
+export interface ProposalCustom
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalCustom
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposalData](./ts-mls.proposalcustom.proposaldata.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposalType](./ts-mls.proposalcustom.proposaltype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

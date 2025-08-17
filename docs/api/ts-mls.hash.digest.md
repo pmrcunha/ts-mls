@@ -16,30 +16,24 @@ digest(data: Uint8Array): Promise<Uint8Array>;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 data
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -47,4 +41,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

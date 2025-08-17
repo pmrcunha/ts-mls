@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-privatePath: PrivateKeyPath;
+privatePath: PrivateKeyPath
 ```

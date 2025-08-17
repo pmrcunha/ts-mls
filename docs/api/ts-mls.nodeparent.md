@@ -8,9 +8,9 @@
 
 ```typescript
 type NodeParent = {
-    nodeType: "parent";
-    parent: ParentNode;
-};
+  nodeType: "parent"
+  parent: ParentNode
+}
 ```
-**References:** [ParentNode](./ts-mls.parentnode_2.md)
 
+**References:** [ParentNode](./ts-mls.parentnode_2.md)

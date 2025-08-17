@@ -7,10 +7,19 @@
 **Signature:**
 
 ```typescript
-export declare function joinGroupExternal(groupInfo: GroupInfo, keyPackage: KeyPackage, privateKeys: PrivateKeyPackage, resync: boolean, cs: CiphersuiteImpl, tree?: RatchetTree, clientConfig?: ClientConfig, authenticatedData?: Uint8Array): Promise<{
-    publicMessage: import("./publicMessage").PublicMessage;
-    newState: ClientState;
-}>;
+export declare function joinGroupExternal(
+  groupInfo: GroupInfo,
+  keyPackage: KeyPackage,
+  privateKeys: PrivateKeyPackage,
+  resync: boolean,
+  cs: CiphersuiteImpl,
+  tree?: RatchetTree,
+  clientConfig?: ClientConfig,
+  authenticatedData?: Uint8Array,
+): Promise<{
+  publicMessage: import("./publicMessage").PublicMessage
+  newState: ClientState
+}>
 ```
 
 ## Parameters
@@ -19,134 +28,107 @@ export declare function joinGroupExternal(groupInfo: GroupInfo, keyPackage: KeyP
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 groupInfo
 
-
 </td><td>
 
 [GroupInfo](./ts-mls.groupinfo.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeys
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 resync
 
-
 </td><td>
 
 boolean
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 tree
 
-
 </td><td>
 
 [RatchetTree](./ts-mls.ratchettree.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 <tr><td>
 
 clientConfig
 
-
 </td><td>
 
 [ClientConfig](./ts-mls.clientconfig.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 <tr><td>
 
 authenticatedData
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -154,4 +136,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;{ publicMessage: import("./publicMessage").[PublicMessage](./ts-mls.publicmessage.md)<!-- -->; newState: [ClientState](./ts-mls.clientstate.md)<!-- -->; }&gt;
-

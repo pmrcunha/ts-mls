@@ -9,7 +9,7 @@ This type contains everything necessary to receieve application messages for an 
 **Signature:**
 
 ```typescript
-export interface EpochReceiverData 
+export interface EpochReceiverData
 ```
 
 ## Properties
@@ -18,107 +18,82 @@ export interface EpochReceiverData
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [groupContext](./ts-mls.epochreceiverdata.groupcontext.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [GroupContext](./ts-mls.groupcontext.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [ratchetTree](./ts-mls.epochreceiverdata.ratchettree.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [RatchetTree](./ts-mls.ratchettree.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [resumptionPsk](./ts-mls.epochreceiverdata.resumptionpsk.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [secretTree](./ts-mls.epochreceiverdata.secrettree.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [SecretTree](./ts-mls.secrettree.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [senderDataSecret](./ts-mls.epochreceiverdata.senderdatasecret.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

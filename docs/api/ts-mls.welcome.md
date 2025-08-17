@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Welcome 
+export interface Welcome
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface Welcome
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [cipherSuite](./ts-mls.welcome.ciphersuite.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [encryptedGroupInfo](./ts-mls.welcome.encryptedgroupinfo.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [secrets](./ts-mls.welcome.secrets.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [EncryptedGroupSecrets](./ts-mls.encryptedgroupsecrets.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

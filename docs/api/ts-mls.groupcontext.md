@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface GroupContext 
+export interface GroupContext
 ```
 
 ## Properties
@@ -16,141 +16,108 @@ export interface GroupContext
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [cipherSuite](./ts-mls.groupcontext.ciphersuite.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [confirmedTranscriptHash](./ts-mls.groupcontext.confirmedtranscripthash.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [epoch](./ts-mls.groupcontext.epoch.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extensions](./ts-mls.groupcontext.extensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [groupId](./ts-mls.groupcontext.groupid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [treeHash](./ts-mls.groupcontext.treehash.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [version](./ts-mls.groupcontext.version.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ProtocolVersionName](./ts-mls.protocolversionname.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

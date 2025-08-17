@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Lifetime 
+export interface Lifetime
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface Lifetime
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [notAfter](./ts-mls.lifetime.notafter.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [notBefore](./ts-mls.lifetime.notbefore.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

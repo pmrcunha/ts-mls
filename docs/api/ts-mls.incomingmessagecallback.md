@@ -7,13 +7,17 @@
 **Signature:**
 
 ```typescript
-export type IncomingMessageCallback = (incoming: {
-    kind: "commit";
-    proposals: ProposalWithSender[];
-} | {
-    kind: "proposal";
-    proposal: ProposalWithSender;
-}) => IncomingMessageAction;
+export type IncomingMessageCallback = (
+  incoming:
+    | {
+        kind: "commit"
+        proposals: ProposalWithSender[]
+      }
+    | {
+        kind: "proposal"
+        proposal: ProposalWithSender
+      },
+) => IncomingMessageAction
 ```
-**References:** [ProposalWithSender](./ts-mls.proposalwithsender.md)<!-- -->, [IncomingMessageAction](./ts-mls.incomingmessageaction.md)
 
+**References:** [ProposalWithSender](./ts-mls.proposalwithsender.md)<!-- -->, [IncomingMessageAction](./ts-mls.incomingmessageaction.md)

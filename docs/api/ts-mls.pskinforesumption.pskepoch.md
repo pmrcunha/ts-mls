@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-pskEpoch: bigint;
+pskEpoch: bigint
 ```

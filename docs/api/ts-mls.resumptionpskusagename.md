@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type ResumptionPSKUsageName = keyof typeof resumptionPSKUsages;
+export type ResumptionPSKUsageName = keyof typeof resumptionPSKUsages
 ```
-**References:** [resumptionPSKUsages](./ts-mls.resumptionpskusages.md)
 
+**References:** [resumptionPSKUsages](./ts-mls.resumptionpskusages.md)

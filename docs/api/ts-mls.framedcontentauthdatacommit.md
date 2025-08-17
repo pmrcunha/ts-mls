@@ -8,8 +8,8 @@
 
 ```typescript
 export type FramedContentAuthDataCommit = {
-    signature: Uint8Array;
-} & FramedContentAuthDataContentCommit;
+  signature: Uint8Array
+} & FramedContentAuthDataContentCommit
 ```
-**References:** [FramedContentAuthDataContentCommit](./ts-mls.framedcontentauthdatacontentcommit.md)
 
+**References:** [FramedContentAuthDataContentCommit](./ts-mls.framedcontentauthdatacontentcommit.md)

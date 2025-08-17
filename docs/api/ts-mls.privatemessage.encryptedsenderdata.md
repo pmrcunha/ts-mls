@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-encryptedSenderData: Uint8Array;
+encryptedSenderData: Uint8Array
 ```

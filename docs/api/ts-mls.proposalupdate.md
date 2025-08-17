@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalUpdate 
+export interface ProposalUpdate
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalUpdate
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposalType](./ts-mls.proposalupdate.proposaltype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "update"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [update](./ts-mls.proposalupdate.update.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Update](./ts-mls.update.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

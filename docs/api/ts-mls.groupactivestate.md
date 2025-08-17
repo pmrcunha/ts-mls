@@ -7,14 +7,17 @@
 **Signature:**
 
 ```typescript
-export type GroupActiveState = {
-    kind: "active";
-} | {
-    kind: "suspendedPendingReinit";
-    reinit: Reinit;
-} | {
-    kind: "removedFromGroup";
-};
+export type GroupActiveState =
+  | {
+      kind: "active"
+    }
+  | {
+      kind: "suspendedPendingReinit"
+      reinit: Reinit
+    }
+  | {
+      kind: "removedFromGroup"
+    }
 ```
-**References:** [Reinit](./ts-mls.reinit.md)
 
+**References:** [Reinit](./ts-mls.reinit.md)

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export declare function makePskIndex(state: ClientState | undefined, externalPsks: Record<string, Uint8Array>): PskIndex;
+export declare function makePskIndex(state: ClientState | undefined, externalPsks: Record<string, Uint8Array>): PskIndex
 ```
 
 ## Parameters
@@ -16,44 +16,35 @@ export declare function makePskIndex(state: ClientState | undefined, externalPsk
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md) \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 externalPsks
 
-
 </td><td>
 
 Record&lt;string, Uint8Array&gt;
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -61,4 +52,3 @@ Record&lt;string, Uint8Array&gt;
 **Returns:**
 
 [PskIndex](./ts-mls.pskindex.md)
-

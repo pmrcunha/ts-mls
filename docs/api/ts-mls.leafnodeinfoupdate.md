@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface LeafNodeInfoUpdate 
+export interface LeafNodeInfoUpdate
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface LeafNodeInfoUpdate
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [leafNodeSource](./ts-mls.leafnodeinfoupdate.leafnodesource.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "update"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

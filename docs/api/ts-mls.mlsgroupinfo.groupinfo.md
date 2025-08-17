@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-groupInfo: GroupInfo;
+groupInfo: GroupInfo
 ```

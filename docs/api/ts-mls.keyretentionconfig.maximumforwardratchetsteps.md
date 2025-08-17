@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-maximumForwardRatchetSteps: number;
+maximumForwardRatchetSteps: number
 ```

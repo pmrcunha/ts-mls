@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Extension 
+export interface Extension
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface Extension
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [extensionData](./ts-mls.extension.extensiondata.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extensionType](./ts-mls.extension.extensiontype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ExtensionType](./ts-mls.extensiontype.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

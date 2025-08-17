@@ -16,44 +16,35 @@ mac(key: Uint8Array, data: Uint8Array): Promise<Uint8Array>;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 key
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 data
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -61,4 +52,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

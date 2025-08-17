@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-ratchetTree: RatchetTree;
+ratchetTree: RatchetTree
 ```

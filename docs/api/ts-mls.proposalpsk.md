@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalPSK 
+export interface ProposalPSK
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalPSK
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposalType](./ts-mls.proposalpsk.proposaltype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "psk"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [psk](./ts-mls.proposalpsk.psk.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [PSK](./ts-mls.psk.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

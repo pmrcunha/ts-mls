@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalOrRefProposal 
+export interface ProposalOrRefProposal
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalOrRefProposal
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposal](./ts-mls.proposalorrefproposal.proposal.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Proposal](./ts-mls.proposal.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposalOrRefType](./ts-mls.proposalorrefproposal.proposalorreftype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "proposal"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

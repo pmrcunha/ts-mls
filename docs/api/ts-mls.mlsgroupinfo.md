@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface MlsGroupInfo 
+export interface MlsGroupInfo
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface MlsGroupInfo
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [groupInfo](./ts-mls.mlsgroupinfo.groupinfo.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [GroupInfo](./ts-mls.groupinfo.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [wireformat](./ts-mls.mlsgroupinfo.wireformat.md)
 
+</td><td>
 
 </td><td>
 
+"mls_group_info"
 
 </td><td>
-
-"mls\_group\_info"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

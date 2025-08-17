@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-groupId: Uint8Array;
+groupId: Uint8Array
 ```

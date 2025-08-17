@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-leafIndex: number;
+leafIndex: number
 ```

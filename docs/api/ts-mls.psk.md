@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PSK 
+export interface PSK
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface PSK
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [preSharedKeyId](./ts-mls.psk.presharedkeyid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [PreSharedKeyID](./ts-mls.presharedkeyid.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

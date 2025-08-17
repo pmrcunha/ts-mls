@@ -8,9 +8,9 @@
 
 ```typescript
 export type PublicMessage = {
-    content: FramedContent;
-    auth: FramedContentAuthData;
-} & PublicMessageInfo;
+  content: FramedContent
+  auth: FramedContentAuthData
+} & PublicMessageInfo
 ```
-**References:** [FramedContent](./ts-mls.framedcontent.md)<!-- -->, [FramedContentAuthData](./ts-mls.framedcontentauthdata.md)<!-- -->, [PublicMessageInfo](./ts-mls.publicmessageinfo.md)
 
+**References:** [FramedContent](./ts-mls.framedcontent.md)<!-- -->, [FramedContentAuthData](./ts-mls.framedcontentauthdata.md)<!-- -->, [PublicMessageInfo](./ts-mls.publicmessageinfo.md)

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-senderLeafIndex: number | undefined;
+senderLeafIndex: number | undefined
 ```

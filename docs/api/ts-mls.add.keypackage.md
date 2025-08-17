@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-keyPackage: KeyPackage;
+keyPackage: KeyPackage
 ```

@@ -8,8 +8,8 @@
 
 ```typescript
 export type KeyPackage = KeyPackageTBS & {
-    signature: Uint8Array;
-};
+  signature: Uint8Array
+}
 ```
-**References:** [KeyPackageTBS](./ts-mls.keypackagetbs.md)
 
+**References:** [KeyPackageTBS](./ts-mls.keypackagetbs.md)

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Rng 
+export interface Rng
 ```
 
 ## Methods
@@ -16,21 +16,16 @@ export interface Rng
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [randomBytes(n)](./ts-mls.rng.randombytes.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

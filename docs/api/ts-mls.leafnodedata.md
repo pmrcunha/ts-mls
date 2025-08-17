@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface LeafNodeData 
+export interface LeafNodeData
 ```
 
 ## Properties
@@ -16,90 +16,69 @@ export interface LeafNodeData
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [capabilities](./ts-mls.leafnodedata.capabilities.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Capabilities](./ts-mls.capabilities.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [credential](./ts-mls.leafnodedata.credential.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Credential](./ts-mls.credential_2.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [hpkePublicKey](./ts-mls.leafnodedata.hpkepublickey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [signaturePublicKey](./ts-mls.leafnodedata.signaturepublickey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

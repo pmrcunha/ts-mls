@@ -7,10 +7,16 @@
 **Signature:**
 
 ```typescript
-export declare function createProposal(state: ClientState, publicMessage: boolean, proposal: Proposal, cs: CiphersuiteImpl, authenticatedData?: Uint8Array): Promise<{
-    newState: ClientState;
-    message: MLSMessage;
-}>;
+export declare function createProposal(
+  state: ClientState,
+  publicMessage: boolean,
+  proposal: Proposal,
+  cs: CiphersuiteImpl,
+  authenticatedData?: Uint8Array,
+): Promise<{
+  newState: ClientState
+  message: MLSMessage
+}>
 ```
 
 ## Parameters
@@ -19,88 +25,70 @@ export declare function createProposal(state: ClientState, publicMessage: boolea
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 publicMessage
 
-
 </td><td>
 
 boolean
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 proposal
 
-
 </td><td>
 
 [Proposal](./ts-mls.proposal.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 authenticatedData
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -108,4 +96,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;{ newState: [ClientState](./ts-mls.clientstate.md)<!-- -->; message: [MLSMessage](./ts-mls.mlsmessage.md)<!-- -->; }&gt;
-

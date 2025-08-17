@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Reinit 
+export interface Reinit
 ```
 
 ## Properties
@@ -16,90 +16,69 @@ export interface Reinit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [cipherSuite](./ts-mls.reinit.ciphersuite.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extensions](./ts-mls.reinit.extensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [groupId](./ts-mls.reinit.groupid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [version](./ts-mls.reinit.version.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ProtocolVersionName](./ts-mls.protocolversionname.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

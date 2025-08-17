@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-historicalReceiverData: Map<bigint, EpochReceiverData>;
+historicalReceiverData: Map<bigint, EpochReceiverData>
 ```

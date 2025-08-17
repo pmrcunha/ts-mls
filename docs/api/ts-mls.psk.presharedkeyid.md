@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-preSharedKeyId: PreSharedKeyID;
+preSharedKeyId: PreSharedKeyID
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type MlsMessageContent = MlsWelcome | MlsPrivateMessage | MlsGroupInfo | MlsKeyPackage | MlsPublicMessage;
+export type MlsMessageContent = MlsWelcome | MlsPrivateMessage | MlsGroupInfo | MlsKeyPackage | MlsPublicMessage
 ```
-**References:** [MlsWelcome](./ts-mls.mlswelcome.md)<!-- -->, [MlsPrivateMessage](./ts-mls.mlsprivatemessage.md)<!-- -->, [MlsGroupInfo](./ts-mls.mlsgroupinfo.md)<!-- -->, [MlsKeyPackage](./ts-mls.mlskeypackage.md)<!-- -->, [MlsPublicMessage](./ts-mls.mlspublicmessage.md)
 
+**References:** [MlsWelcome](./ts-mls.mlswelcome.md)<!-- -->, [MlsPrivateMessage](./ts-mls.mlsprivatemessage.md)<!-- -->, [MlsGroupInfo](./ts-mls.mlsgroupinfo.md)<!-- -->, [MlsKeyPackage](./ts-mls.mlskeypackage.md)<!-- -->, [MlsPublicMessage](./ts-mls.mlspublicmessage.md)

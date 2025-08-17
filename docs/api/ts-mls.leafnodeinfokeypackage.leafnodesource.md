@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-leafNodeSource: "key_package";
+leafNodeSource: "key_package"
 ```

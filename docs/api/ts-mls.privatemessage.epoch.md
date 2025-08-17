@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-epoch: bigint;
+epoch: bigint
 ```

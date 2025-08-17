@@ -16,30 +16,24 @@ importPrivateKey(k: Uint8Array): Promise<PrivateKey>;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 k
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -47,4 +41,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;[PrivateKey](./ts-mls.privatekey.md)<!-- -->&gt;
-

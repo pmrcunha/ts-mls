@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Signature 
+export interface Signature
 ```
 
 ## Methods
@@ -16,39 +16,30 @@ export interface Signature
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [keygen()](./ts-mls.signature.keygen.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [sign(signKey, message)](./ts-mls.signature.sign.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [verify(publicKey, message, signature)](./ts-mls.signature.verify.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

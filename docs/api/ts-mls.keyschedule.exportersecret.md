@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-exporterSecret: Uint8Array;
+exporterSecret: Uint8Array
 ```

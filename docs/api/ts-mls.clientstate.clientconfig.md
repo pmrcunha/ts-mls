@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-clientConfig: ClientConfig;
+clientConfig: ClientConfig
 ```

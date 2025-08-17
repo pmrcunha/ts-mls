@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface CreateCommitResult 
+export interface CreateCommitResult
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface CreateCommitResult
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [commit](./ts-mls.createcommitresult.commit.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [MLSMessage](./ts-mls.mlsmessage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [newState](./ts-mls.createcommitresult.newstate.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [welcome](./ts-mls.createcommitresult.welcome.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Welcome](./ts-mls.welcome.md) \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

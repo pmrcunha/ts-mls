@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-maximumTotalLifetime: bigint;
+maximumTotalLifetime: bigint
 ```

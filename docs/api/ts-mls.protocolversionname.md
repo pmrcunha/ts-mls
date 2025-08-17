@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type ProtocolVersionName = keyof typeof protocolVersions;
+export type ProtocolVersionName = keyof typeof protocolVersions
 ```
-**References:** [protocolVersions](./ts-mls.protocolversions.md)
 
+**References:** [protocolVersions](./ts-mls.protocolversions.md)

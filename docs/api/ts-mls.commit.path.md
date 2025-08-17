@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-path: UpdatePath | undefined;
+path: UpdatePath | undefined
 ```

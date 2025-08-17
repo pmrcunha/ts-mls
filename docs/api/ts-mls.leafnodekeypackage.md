@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type LeafNodeKeyPackage = LeafNode & LeafNodeInfoKeyPackage;
+export type LeafNodeKeyPackage = LeafNode & LeafNodeInfoKeyPackage
 ```
-**References:** [LeafNode](./ts-mls.leafnode.md)<!-- -->, [LeafNodeInfoKeyPackage](./ts-mls.leafnodeinfokeypackage.md)
 
+**References:** [LeafNode](./ts-mls.leafnode.md)<!-- -->, [LeafNodeInfoKeyPackage](./ts-mls.leafnodeinfokeypackage.md)

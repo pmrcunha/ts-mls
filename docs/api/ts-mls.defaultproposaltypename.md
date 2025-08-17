@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type DefaultProposalTypeName = keyof typeof defaultProposalTypes;
+export type DefaultProposalTypeName = keyof typeof defaultProposalTypes
 ```
-**References:** [defaultProposalTypes](./ts-mls.defaultproposaltypes.md)
 
+**References:** [defaultProposalTypes](./ts-mls.defaultproposaltypes.md)

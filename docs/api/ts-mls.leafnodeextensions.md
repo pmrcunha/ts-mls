@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface LeafNodeExtensions 
+export interface LeafNodeExtensions
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface LeafNodeExtensions
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [extensions](./ts-mls.leafnodeextensions.extensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

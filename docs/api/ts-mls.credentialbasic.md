@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface CredentialBasic 
+export interface CredentialBasic
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface CredentialBasic
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [credentialType](./ts-mls.credentialbasic.credentialtype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "basic"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [identity](./ts-mls.credentialbasic.identity.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface LeafNodeInfoKeyPackage 
+export interface LeafNodeInfoKeyPackage
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface LeafNodeInfoKeyPackage
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [leafNodeSource](./ts-mls.leafnodeinfokeypackage.leafnodesource.md)
 
+</td><td>
 
 </td><td>
 
+"key_package"
 
 </td><td>
-
-"key\_package"
-
-
-</td><td>
-
 
 </td></tr>
 <tr><td>
 
 [lifetime](./ts-mls.leafnodeinfokeypackage.lifetime.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Lifetime](./ts-mls.lifetime.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

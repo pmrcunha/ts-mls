@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-applicationData: Uint8Array;
+applicationData: Uint8Array
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type ExtensionType = DefaultExtensionTypeName | number;
+export type ExtensionType = DefaultExtensionTypeName | number
 ```
-**References:** [DefaultExtensionTypeName](./ts-mls.defaultextensiontypename.md)
 
+**References:** [DefaultExtensionTypeName](./ts-mls.defaultextensiontypename.md)

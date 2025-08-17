@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: "remove";
+proposalType: "remove"
 ```

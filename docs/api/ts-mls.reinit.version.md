@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-version: ProtocolVersionName;
+version: ProtocolVersionName
 ```

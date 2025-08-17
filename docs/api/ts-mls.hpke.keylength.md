@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-keyLength: number;
+keyLength: number
 ```

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-extensionType: ExtensionType;
+extensionType: ExtensionType
 ```

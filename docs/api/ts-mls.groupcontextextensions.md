@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface GroupContextExtensions 
+export interface GroupContextExtensions
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface GroupContextExtensions
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [extensions](./ts-mls.groupcontextextensions.extensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

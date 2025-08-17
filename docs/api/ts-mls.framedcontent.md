@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type FramedContent = FramedContentData & FramedContentInfo;
+export type FramedContent = FramedContentData & FramedContentInfo
 ```
-**References:** [FramedContentData](./ts-mls.framedcontentdata.md)<!-- -->, [FramedContentInfo](./ts-mls.framedcontentinfo.md)
 
+**References:** [FramedContentData](./ts-mls.framedcontentdata.md)<!-- -->, [FramedContentInfo](./ts-mls.framedcontentinfo.md)

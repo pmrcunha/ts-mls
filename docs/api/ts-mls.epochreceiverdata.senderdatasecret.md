@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-senderDataSecret: Uint8Array;
+senderDataSecret: Uint8Array
 ```

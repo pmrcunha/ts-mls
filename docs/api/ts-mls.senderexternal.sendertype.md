@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-senderType: "external";
+senderType: "external"
 ```

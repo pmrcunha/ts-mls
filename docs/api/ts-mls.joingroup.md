@@ -9,7 +9,16 @@ Adds a user to a group.
 **Signature:**
 
 ```typescript
-export declare function joinGroup(welcome: Welcome, keyPackage: KeyPackage, privateKeys: PrivateKeyPackage, pskSearch: PskIndex, cs: CiphersuiteImpl, ratchetTree?: RatchetTree, resumingFromState?: ClientState, clientConfig?: ClientConfig): Promise<ClientState>;
+export declare function joinGroup(
+  welcome: Welcome,
+  keyPackage: KeyPackage,
+  privateKeys: PrivateKeyPackage,
+  pskSearch: PskIndex,
+  cs: CiphersuiteImpl,
+  ratchetTree?: RatchetTree,
+  resumingFromState?: ClientState,
+  clientConfig?: ClientConfig,
+): Promise<ClientState>
 ```
 
 ## Parameters
@@ -18,134 +27,107 @@ export declare function joinGroup(welcome: Welcome, keyPackage: KeyPackage, priv
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 welcome
 
-
 </td><td>
 
 [Welcome](./ts-mls.welcome.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeys
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pskSearch
 
-
 </td><td>
 
 [PskIndex](./ts-mls.pskindex.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 ratchetTree
 
-
 </td><td>
 
 [RatchetTree](./ts-mls.ratchettree.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 <tr><td>
 
 resumingFromState
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 <tr><td>
 
 clientConfig
 
-
 </td><td>
 
 [ClientConfig](./ts-mls.clientconfig.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -153,4 +135,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;[ClientState](./ts-mls.clientstate.md)<!-- -->&gt;
-

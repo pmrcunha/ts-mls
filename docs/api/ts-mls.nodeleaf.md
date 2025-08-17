@@ -8,9 +8,9 @@
 
 ```typescript
 type NodeLeaf = {
-    nodeType: "leaf";
-    leaf: LeafNode;
-};
+  nodeType: "leaf"
+  leaf: LeafNode
+}
 ```
-**References:** [LeafNode](./ts-mls.leafnode.md)
 
+**References:** [LeafNode](./ts-mls.leafnode.md)

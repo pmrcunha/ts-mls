@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Commit 
+export interface Commit
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface Commit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [path](./ts-mls.commit.path.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [UpdatePath](./ts-mls.updatepath.md) \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposals](./ts-mls.commit.proposals.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ProposalOrRef](./ts-mls.proposalorref.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

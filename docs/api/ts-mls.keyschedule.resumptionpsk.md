@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-resumptionPsk: Uint8Array;
+resumptionPsk: Uint8Array
 ```

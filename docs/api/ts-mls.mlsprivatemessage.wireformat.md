@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-wireformat: "mls_private_message";
+wireformat: "mls_private_message"
 ```

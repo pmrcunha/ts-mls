@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-senderIndex: number;
+senderIndex: number
 ```

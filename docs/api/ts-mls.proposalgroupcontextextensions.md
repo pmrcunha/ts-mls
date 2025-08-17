@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalGroupContextExtensions 
+export interface ProposalGroupContextExtensions
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalGroupContextExtensions
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [groupContextExtensions](./ts-mls.proposalgroupcontextextensions.groupcontextextensions.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [GroupContextExtensions](./ts-mls.groupcontextextensions.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposalType](./ts-mls.proposalgroupcontextextensions.proposaltype.md)
 
+</td><td>
 
 </td><td>
 
+"group_context_extensions"
 
 </td><td>
-
-"group\_context\_extensions"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -9,9 +9,9 @@ The default capabilities for a key package.
 **Signature:**
 
 ```typescript
-export declare function defaultCapabilities(): Capabilities;
+export declare function defaultCapabilities(): Capabilities
 ```
+
 **Returns:**
 
 [Capabilities](./ts-mls.capabilities.md)
-

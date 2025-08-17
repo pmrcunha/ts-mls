@@ -16,30 +16,24 @@ randomBytes(n: number): Uint8Array;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 n
 
-
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -47,4 +41,3 @@ number
 **Returns:**
 
 Uint8Array
-

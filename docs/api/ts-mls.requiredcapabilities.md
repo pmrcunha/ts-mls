@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface RequiredCapabilities 
+export interface RequiredCapabilities
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface RequiredCapabilities
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [credentialTypes](./ts-mls.requiredcapabilities.credentialtypes.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CredentialTypeName](./ts-mls.credentialtypename.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extensionTypes](./ts-mls.requiredcapabilities.extensiontypes.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [proposalTypes](./ts-mls.requiredcapabilities.proposaltypes.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

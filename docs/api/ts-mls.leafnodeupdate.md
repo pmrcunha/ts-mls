@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type LeafNodeUpdate = LeafNode & LeafNodeInfoUpdate;
+export type LeafNodeUpdate = LeafNode & LeafNodeInfoUpdate
 ```
-**References:** [LeafNode](./ts-mls.leafnode.md)<!-- -->, [LeafNodeInfoUpdate](./ts-mls.leafnodeinfoupdate.md)
 
+**References:** [LeafNode](./ts-mls.leafnode.md)<!-- -->, [LeafNodeInfoUpdate](./ts-mls.leafnodeinfoupdate.md)

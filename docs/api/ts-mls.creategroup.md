@@ -9,7 +9,14 @@ Creates a chat group.
 **Signature:**
 
 ```typescript
-export declare function createGroup(groupId: Uint8Array, keyPackage: KeyPackage, privateKeyPackage: PrivateKeyPackage, extensions: Extension[], cs: CiphersuiteImpl, clientConfig?: ClientConfig): Promise<ClientState>;
+export declare function createGroup(
+  groupId: Uint8Array,
+  keyPackage: KeyPackage,
+  privateKeyPackage: PrivateKeyPackage,
+  extensions: Extension[],
+  cs: CiphersuiteImpl,
+  clientConfig?: ClientConfig,
+): Promise<ClientState>
 ```
 
 ## Parameters
@@ -18,102 +25,81 @@ export declare function createGroup(groupId: Uint8Array, keyPackage: KeyPackage,
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 groupId
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeyPackage
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 extensions
 
-
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 clientConfig
 
-
 </td><td>
 
 [ClientConfig](./ts-mls.clientconfig.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -121,4 +107,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;[ClientState](./ts-mls.clientstate.md)<!-- -->&gt;
-

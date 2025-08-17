@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Hash 
+export interface Hash
 ```
 
 ## Methods
@@ -16,39 +16,30 @@ export interface Hash
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [digest(data)](./ts-mls.hash.digest.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [mac(key, data)](./ts-mls.hash.mac.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [verifyMac(key, mac, data)](./ts-mls.hash.verifymac.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

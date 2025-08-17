@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-credentialType: "x509";
+credentialType: "x509"
 ```

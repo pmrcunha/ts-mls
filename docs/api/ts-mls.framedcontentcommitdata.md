@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface FramedContentCommitData 
+export interface FramedContentCommitData
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface FramedContentCommitData
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [commit](./ts-mls.framedcontentcommitdata.commit.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Commit](./ts-mls.commit.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [contentType](./ts-mls.framedcontentcommitdata.contenttype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "commit"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

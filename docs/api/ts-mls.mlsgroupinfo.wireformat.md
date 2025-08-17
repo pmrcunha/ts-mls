@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-wireformat: "mls_group_info";
+wireformat: "mls_group_info"
 ```

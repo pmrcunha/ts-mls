@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-signaturePrivateKey: Uint8Array;
+signaturePrivateKey: Uint8Array
 ```

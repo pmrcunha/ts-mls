@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-groupContext: GroupContext;
+groupContext: GroupContext
 ```

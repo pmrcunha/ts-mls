@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalReinit 
+export interface ProposalReinit
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalReinit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposalType](./ts-mls.proposalreinit.proposaltype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "reinit"
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [reinit](./ts-mls.proposalreinit.reinit.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Reinit](./ts-mls.reinit.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

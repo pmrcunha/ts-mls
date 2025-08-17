@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-kemOutput: Uint8Array;
+kemOutput: Uint8Array
 ```

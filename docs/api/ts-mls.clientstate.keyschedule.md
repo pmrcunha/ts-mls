@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-keySchedule: KeySchedule;
+keySchedule: KeySchedule
 ```

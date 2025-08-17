@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Add 
+export interface Add
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface Add
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [keyPackage](./ts-mls.add.keypackage.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

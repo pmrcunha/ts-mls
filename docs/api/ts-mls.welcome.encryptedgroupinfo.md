@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-encryptedGroupInfo: Uint8Array;
+encryptedGroupInfo: Uint8Array
 ```

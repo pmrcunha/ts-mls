@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface UpdatePathNode 
+export interface UpdatePathNode
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface UpdatePathNode
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [encryptedPathSecret](./ts-mls.updatepathnode.encryptedpathsecret.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [HPKECiphertext](./ts-mls.hpkeciphertext.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [hpkePublicKey](./ts-mls.updatepathnode.hpkepublickey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

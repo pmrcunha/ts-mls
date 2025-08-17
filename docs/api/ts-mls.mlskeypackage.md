@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface MlsKeyPackage 
+export interface MlsKeyPackage
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface MlsKeyPackage
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [keyPackage](./ts-mls.mlskeypackage.keypackage.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [wireformat](./ts-mls.mlskeypackage.wireformat.md)
 
+</td><td>
 
 </td><td>
 
+"mls_key_package"
 
 </td><td>
-
-"mls\_key\_package"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

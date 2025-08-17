@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-authService: AuthenticationService;
+authService: AuthenticationService
 ```

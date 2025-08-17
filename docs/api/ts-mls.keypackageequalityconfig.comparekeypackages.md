@@ -16,44 +16,35 @@ compareKeyPackages(a: KeyPackage, b: KeyPackage): boolean;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 a
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 b
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -61,4 +52,3 @@ b
 **Returns:**
 
 boolean
-

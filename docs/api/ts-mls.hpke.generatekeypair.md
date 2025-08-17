@@ -12,7 +12,7 @@ generateKeyPair(): Promise<{
         publicKey: PublicKey;
     }>;
 ```
+
 **Returns:**
 
 Promise&lt;{ privateKey: [PrivateKey](./ts-mls.privatekey.md)<!-- -->; publicKey: [PublicKey](./ts-mls.publickey.md)<!-- -->; }&gt;
-

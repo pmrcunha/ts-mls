@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalOrRefType: "reference";
+proposalOrRefType: "reference"
 ```

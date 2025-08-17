@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type CredentialTypeName = keyof typeof credentialTypes;
+export type CredentialTypeName = keyof typeof credentialTypes
 ```
-**References:** [credentialTypes](./ts-mls.credentialtypes.md)
 
+**References:** [credentialTypes](./ts-mls.credentialtypes.md)

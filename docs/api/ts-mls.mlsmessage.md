@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type MLSMessage = MlsMessageProtocol & MlsMessageContent;
+export type MLSMessage = MlsMessageProtocol & MlsMessageContent
 ```
-**References:** [MlsMessageProtocol](./ts-mls.mlsmessageprotocol.md)<!-- -->, [MlsMessageContent](./ts-mls.mlsmessagecontent.md)
 
+**References:** [MlsMessageProtocol](./ts-mls.mlsmessageprotocol.md)<!-- -->, [MlsMessageContent](./ts-mls.mlsmessagecontent.md)

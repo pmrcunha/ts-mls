@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: "external_init";
+proposalType: "external_init"
 ```

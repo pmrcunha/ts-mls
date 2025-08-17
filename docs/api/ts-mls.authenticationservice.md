@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface AuthenticationService 
+export interface AuthenticationService
 ```
 
 ## Methods
@@ -16,21 +16,16 @@ export interface AuthenticationService
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [validateCredential(credential, signaturePublicKey)](./ts-mls.authenticationservice.validatecredential.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

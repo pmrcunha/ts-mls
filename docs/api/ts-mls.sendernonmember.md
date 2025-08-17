@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type SenderNonMember = SenderExternal | SenderNewMemberProposal | SenderNewMemberCommit;
+export type SenderNonMember = SenderExternal | SenderNewMemberProposal | SenderNewMemberCommit
 ```
-**References:** [SenderExternal](./ts-mls.senderexternal.md)<!-- -->, [SenderNewMemberProposal](./ts-mls.sendernewmemberproposal.md)<!-- -->, [SenderNewMemberCommit](./ts-mls.sendernewmembercommit.md)
 
+**References:** [SenderExternal](./ts-mls.senderexternal.md)<!-- -->, [SenderNewMemberProposal](./ts-mls.sendernewmemberproposal.md)<!-- -->, [SenderNewMemberCommit](./ts-mls.sendernewmembercommit.md)

@@ -8,8 +8,8 @@
 
 ```typescript
 export type GroupInfo = GroupInfoTBS & {
-    signature: Uint8Array;
-};
+  signature: Uint8Array
+}
 ```
-**References:** [GroupInfoTBS](./ts-mls.groupinfotbs.md)
 
+**References:** [GroupInfoTBS](./ts-mls.groupinfotbs.md)

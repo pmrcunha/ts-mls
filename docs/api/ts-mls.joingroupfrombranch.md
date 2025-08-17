@@ -7,7 +7,14 @@
 **Signature:**
 
 ```typescript
-export declare function joinGroupFromBranch(oldState: ClientState, welcome: Welcome, keyPackage: KeyPackage, privateKeyPackage: PrivateKeyPackage, ratchetTree: RatchetTree | undefined, cs: CiphersuiteImpl): Promise<ClientState>;
+export declare function joinGroupFromBranch(
+  oldState: ClientState,
+  welcome: Welcome,
+  keyPackage: KeyPackage,
+  privateKeyPackage: PrivateKeyPackage,
+  ratchetTree: RatchetTree | undefined,
+  cs: CiphersuiteImpl,
+): Promise<ClientState>
 ```
 
 ## Parameters
@@ -16,100 +23,79 @@ export declare function joinGroupFromBranch(oldState: ClientState, welcome: Welc
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 oldState
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 welcome
 
-
 </td><td>
 
 [Welcome](./ts-mls.welcome.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeyPackage
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 ratchetTree
 
-
 </td><td>
 
 [RatchetTree](./ts-mls.ratchettree.md) \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -117,4 +103,3 @@ cs
 **Returns:**
 
 Promise&lt;[ClientState](./ts-mls.clientstate.md)<!-- -->&gt;
-

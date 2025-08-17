@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface Kdf 
+export interface Kdf
 ```
 
 ## Properties
@@ -16,38 +16,30 @@ export interface Kdf
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [size](./ts-mls.kdf.size.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -58,30 +50,23 @@ number
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [expand(prk, info, len)](./ts-mls.kdf.expand.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [extract(salt, ikm)](./ts-mls.kdf.extract.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

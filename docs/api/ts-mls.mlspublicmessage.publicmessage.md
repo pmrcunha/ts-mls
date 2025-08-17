@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-publicMessage: PublicMessage;
+publicMessage: PublicMessage
 ```

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-export type Encoder<T> = (t: T) => Uint8Array;
+export type Encoder<T> = (t: T) => Uint8Array
 ```

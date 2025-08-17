@@ -19,72 +19,57 @@ exportSecret(publicKey: PublicKey, exporterContext: Uint8Array, length: number, 
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 publicKey
 
-
 </td><td>
 
 [PublicKey](./ts-mls.publickey.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 exporterContext
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 length
 
-
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 info
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -92,4 +77,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;{ enc: Uint8Array; secret: Uint8Array; }&gt;
-

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-nonceLength: number;
+nonceLength: number
 ```

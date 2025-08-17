@@ -16,86 +16,68 @@ importSecret(privateKey: PrivateKey, exporterContext: Uint8Array, kemOutput: Uin
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 privateKey
 
-
 </td><td>
 
 [PrivateKey](./ts-mls.privatekey.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 exporterContext
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 kemOutput
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 length
 
-
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 info
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -103,4 +85,3 @@ Uint8Array
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

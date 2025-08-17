@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-export type AeadAlgorithm = "AES128GCM" | "CHACHA20POLY1305" | "AES256GCM";
+export type AeadAlgorithm = "AES128GCM" | "CHACHA20POLY1305" | "AES256GCM"
 ```

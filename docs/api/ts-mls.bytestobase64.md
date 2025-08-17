@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export declare function bytesToBase64(bytes: Uint8Array): string;
+export declare function bytesToBase64(bytes: Uint8Array): string
 ```
 
 ## Parameters
@@ -16,30 +16,24 @@ export declare function bytesToBase64(bytes: Uint8Array): string;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 bytes
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -47,4 +41,3 @@ Uint8Array
 **Returns:**
 
 string
-

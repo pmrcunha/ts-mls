@@ -9,7 +9,13 @@ Process private message and apply proposal or commit and return the updated Clie
 **Signature:**
 
 ```typescript
-export declare function processPrivateMessage(state: ClientState, pm: PrivateMessage, pskSearch: PskIndex, cs: CiphersuiteImpl, callback?: IncomingMessageCallback): Promise<ProcessMessageResult>;
+export declare function processPrivateMessage(
+  state: ClientState,
+  pm: PrivateMessage,
+  pskSearch: PskIndex,
+  cs: CiphersuiteImpl,
+  callback?: IncomingMessageCallback,
+): Promise<ProcessMessageResult>
 ```
 
 ## Parameters
@@ -18,88 +24,70 @@ export declare function processPrivateMessage(state: ClientState, pm: PrivateMes
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pm
 
-
 </td><td>
 
 [PrivateMessage](./ts-mls.privatemessage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pskSearch
 
-
 </td><td>
 
 [PskIndex](./ts-mls.pskindex.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 callback
 
-
 </td><td>
 
 [IncomingMessageCallback](./ts-mls.incomingmessagecallback.md)
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -107,4 +95,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;[ProcessMessageResult](./ts-mls.processmessageresult.md)<!-- -->&gt;
-

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: number;
+proposalType: number
 ```

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-unusedGenerations: Record<number, Uint8Array>;
+unusedGenerations: Record<number, Uint8Array>
 ```

@@ -7,7 +7,13 @@
 **Signature:**
 
 ```typescript
-export declare function joinGroupFromReinit(suspendedState: ClientState, welcome: Welcome, keyPackage: KeyPackage, privateKeyPackage: PrivateKeyPackage, ratchetTree: RatchetTree | undefined): Promise<ClientState>;
+export declare function joinGroupFromReinit(
+  suspendedState: ClientState,
+  welcome: Welcome,
+  keyPackage: KeyPackage,
+  privateKeyPackage: PrivateKeyPackage,
+  ratchetTree: RatchetTree | undefined,
+): Promise<ClientState>
 ```
 
 ## Parameters
@@ -16,86 +22,68 @@ export declare function joinGroupFromReinit(suspendedState: ClientState, welcome
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 suspendedState
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 welcome
 
-
 </td><td>
 
 [Welcome](./ts-mls.welcome.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeyPackage
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 ratchetTree
 
-
 </td><td>
 
 [RatchetTree](./ts-mls.ratchettree.md) \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -103,4 +91,3 @@ ratchetTree
 **Returns:**
 
 Promise&lt;[ClientState](./ts-mls.clientstate.md)<!-- -->&gt;
-

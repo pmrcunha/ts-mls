@@ -7,7 +7,14 @@
 **Signature:**
 
 ```typescript
-export declare function reinitGroup(state: ClientState, groupId: Uint8Array, version: ProtocolVersionName, cipherSuite: CiphersuiteName, extensions: Extension[], cs: CiphersuiteImpl): Promise<CreateCommitResult>;
+export declare function reinitGroup(
+  state: ClientState,
+  groupId: Uint8Array,
+  version: ProtocolVersionName,
+  cipherSuite: CiphersuiteName,
+  extensions: Extension[],
+  cs: CiphersuiteImpl,
+): Promise<CreateCommitResult>
 ```
 
 ## Parameters
@@ -16,100 +23,79 @@ export declare function reinitGroup(state: ClientState, groupId: Uint8Array, ver
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 groupId
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 version
 
-
 </td><td>
 
 [ProtocolVersionName](./ts-mls.protocolversionname.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cipherSuite
 
-
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 extensions
 
-
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -117,4 +103,3 @@ cs
 **Returns:**
 
 Promise&lt;[CreateCommitResult](./ts-mls.createcommitresult.md)<!-- -->&gt;
-

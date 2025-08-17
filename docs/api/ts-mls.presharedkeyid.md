@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type PreSharedKeyID = PSKInfo & PSKNonce;
+export type PreSharedKeyID = PSKInfo & PSKNonce
 ```
-**References:** [PSKInfo](./ts-mls.pskinfo.md)<!-- -->, [PSKNonce](./ts-mls.psknonce.md)
 
+**References:** [PSKInfo](./ts-mls.pskinfo.md)<!-- -->, [PSKNonce](./ts-mls.psknonce.md)

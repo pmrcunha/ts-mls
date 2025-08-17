@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-membershipKey: Uint8Array;
+membershipKey: Uint8Array
 ```

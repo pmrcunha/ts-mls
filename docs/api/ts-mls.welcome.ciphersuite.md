@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-cipherSuite: CiphersuiteName;
+cipherSuite: CiphersuiteName
 ```

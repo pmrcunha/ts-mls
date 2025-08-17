@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-export type KdfAlgorithm = "HKDF-SHA256" | "HKDF-SHA384" | "HKDF-SHA512";
+export type KdfAlgorithm = "HKDF-SHA256" | "HKDF-SHA384" | "HKDF-SHA512"
 ```

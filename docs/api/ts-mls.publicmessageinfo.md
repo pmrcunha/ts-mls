@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-type PublicMessageInfo = PublicMessageInfoMember | PublicMessageInfoMemberOther;
+type PublicMessageInfo = PublicMessageInfoMember | PublicMessageInfoMemberOther
 ```
-**References:** [PublicMessageInfoMember](./ts-mls.publicmessageinfomember.md)<!-- -->, [PublicMessageInfoMemberOther](./ts-mls.publicmessageinfomemberother.md)
 
+**References:** [PublicMessageInfoMember](./ts-mls.publicmessageinfomember.md)<!-- -->, [PublicMessageInfoMemberOther](./ts-mls.publicmessageinfomemberother.md)

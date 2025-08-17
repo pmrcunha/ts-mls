@@ -7,7 +7,13 @@
 **Signature:**
 
 ```typescript
-export declare function processMessage(message: MlsPrivateMessage | MlsPublicMessage, state: ClientState, pskIndex: PskIndex, action: IncomingMessageCallback, cs: CiphersuiteImpl): Promise<ProcessMessageResult>;
+export declare function processMessage(
+  message: MlsPrivateMessage | MlsPublicMessage,
+  state: ClientState,
+  pskIndex: PskIndex,
+  action: IncomingMessageCallback,
+  cs: CiphersuiteImpl,
+): Promise<ProcessMessageResult>
 ```
 
 ## Parameters
@@ -16,86 +22,68 @@ export declare function processMessage(message: MlsPrivateMessage | MlsPublicMes
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 message
 
-
 </td><td>
 
 [MlsPrivateMessage](./ts-mls.mlsprivatemessage.md) \| [MlsPublicMessage](./ts-mls.mlspublicmessage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 pskIndex
 
-
 </td><td>
 
 [PskIndex](./ts-mls.pskindex.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 action
 
-
 </td><td>
 
 [IncomingMessageCallback](./ts-mls.incomingmessagecallback.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -103,4 +91,3 @@ cs
 **Returns:**
 
 Promise&lt;[ProcessMessageResult](./ts-mls.processmessageresult.md)<!-- -->&gt;
-

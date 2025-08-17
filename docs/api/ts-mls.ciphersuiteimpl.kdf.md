@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-kdf: Kdf;
+kdf: Kdf
 ```

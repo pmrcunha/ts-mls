@@ -16,30 +16,24 @@ findPsk(preSharedKeyId: PreSharedKeyID): Uint8Array | undefined;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 preSharedKeyId
 
-
 </td><td>
 
 [PreSharedKeyID](./ts-mls.presharedkeyid.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -47,4 +41,3 @@ preSharedKeyId
 **Returns:**
 
 Uint8Array \| undefined
-

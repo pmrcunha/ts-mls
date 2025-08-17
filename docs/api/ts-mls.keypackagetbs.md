@@ -8,12 +8,12 @@
 
 ```typescript
 type KeyPackageTBS = {
-    version: ProtocolVersionName;
-    cipherSuite: CiphersuiteName;
-    initKey: Uint8Array;
-    leafNode: LeafNodeKeyPackage;
-    extensions: Extension[];
-};
+  version: ProtocolVersionName
+  cipherSuite: CiphersuiteName
+  initKey: Uint8Array
+  leafNode: LeafNodeKeyPackage
+  extensions: Extension[]
+}
 ```
-**References:** [ProtocolVersionName](./ts-mls.protocolversionname.md)<!-- -->, [CiphersuiteName](./ts-mls.ciphersuitename.md)<!-- -->, [LeafNodeKeyPackage](./ts-mls.leafnodekeypackage.md)<!-- -->, [Extension](./ts-mls.extension.md)
 
+**References:** [ProtocolVersionName](./ts-mls.protocolversionname.md)<!-- -->, [CiphersuiteName](./ts-mls.ciphersuitename.md)<!-- -->, [LeafNodeKeyPackage](./ts-mls.leafnodekeypackage.md)<!-- -->, [Extension](./ts-mls.extension.md)

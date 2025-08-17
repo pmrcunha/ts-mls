@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface LifetimeConfig 
+export interface LifetimeConfig
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface LifetimeConfig
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [maximumTotalLifetime](./ts-mls.lifetimeconfig.maximumtotallifetime.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [validateLifetimeOnReceive](./ts-mls.lifetimeconfig.validatelifetimeonreceive.md)
 
-
 </td><td>
-
 
 </td><td>
 
 boolean
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

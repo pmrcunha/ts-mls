@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface MlsPublicMessage 
+export interface MlsPublicMessage
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface MlsPublicMessage
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [publicMessage](./ts-mls.mlspublicmessage.publicmessage.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [PublicMessage](./ts-mls.publicmessage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [wireformat](./ts-mls.mlspublicmessage.wireformat.md)
 
+</td><td>
 
 </td><td>
 
+"mls_public_message"
 
 </td><td>
-
-"mls\_public\_message"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

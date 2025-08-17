@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-psktype: "resumption";
+psktype: "resumption"
 ```

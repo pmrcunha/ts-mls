@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-lifetime: Lifetime;
+lifetime: Lifetime
 ```

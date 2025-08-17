@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-kem: KemAlgorithm;
+kem: KemAlgorithm
 ```

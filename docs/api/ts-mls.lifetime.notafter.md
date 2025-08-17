@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-notAfter: bigint;
+notAfter: bigint
 ```

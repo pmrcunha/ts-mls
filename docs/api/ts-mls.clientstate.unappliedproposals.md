@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-unappliedProposals: UnappliedProposals;
+unappliedProposals: UnappliedProposals
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface NewStateWithActionTaken 
+export interface NewStateWithActionTaken
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface NewStateWithActionTaken
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [actionTaken](./ts-mls.newstatewithactiontaken.actiontaken.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [IncomingMessageAction](./ts-mls.incomingmessageaction.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [newState](./ts-mls.newstatewithactiontaken.newstate.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-contentType: "application";
+contentType: "application"
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type SenderTypeName = keyof typeof senderTypes;
+export type SenderTypeName = keyof typeof senderTypes
 ```
-**References:** [senderTypes](./ts-mls.sendertypes.md)
 
+**References:** [senderTypes](./ts-mls.sendertypes.md)

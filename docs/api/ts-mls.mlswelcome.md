@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface MlsWelcome 
+export interface MlsWelcome
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface MlsWelcome
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [welcome](./ts-mls.mlswelcome.welcome.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Welcome](./ts-mls.welcome.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [wireformat](./ts-mls.mlswelcome.wireformat.md)
 
+</td><td>
 
 </td><td>
 
+"mls_welcome"
 
 </td><td>
-
-"mls\_welcome"
-
-
-</td><td>
-
 
 </td></tr>
 </tbody></table>
-

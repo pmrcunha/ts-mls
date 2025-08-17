@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type CiphersuiteName = keyof typeof ciphersuites;
+export type CiphersuiteName = keyof typeof ciphersuites
 ```
-**References:** [ciphersuites](./ts-mls.ciphersuites.md)
 
+**References:** [ciphersuites](./ts-mls.ciphersuites.md)

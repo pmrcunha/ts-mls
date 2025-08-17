@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type Sender = SenderMember | SenderNonMember;
+export type Sender = SenderMember | SenderNonMember
 ```
-**References:** [SenderMember](./ts-mls.sendermember.md)<!-- -->, [SenderNonMember](./ts-mls.sendernonmember.md)
 
+**References:** [SenderMember](./ts-mls.sendermember.md)<!-- -->, [SenderNonMember](./ts-mls.sendernonmember.md)

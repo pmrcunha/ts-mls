@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-senderType: "new_member_commit";
+senderType: "new_member_commit"
 ```

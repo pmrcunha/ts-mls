@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type ContentTypeName = keyof typeof contentTypes;
+export type ContentTypeName = keyof typeof contentTypes
 ```
-**References:** [contentTypes](./ts-mls.contenttypes.md)
 
+**References:** [contentTypes](./ts-mls.contenttypes.md)

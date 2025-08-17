@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PrivateKeyPath 
+export interface PrivateKeyPath
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface PrivateKeyPath
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [leafIndex](./ts-mls.privatekeypath.leafindex.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [privateKeys](./ts-mls.privatekeypath.privatekeys.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Record&lt;number, Uint8Array&gt;
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

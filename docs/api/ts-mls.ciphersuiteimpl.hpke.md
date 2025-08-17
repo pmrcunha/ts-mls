@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-hpke: Hpke;
+hpke: Hpke
 ```

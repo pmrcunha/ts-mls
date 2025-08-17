@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ProposalWithSender 
+export interface ProposalWithSender
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface ProposalWithSender
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [proposal](./ts-mls.proposalwithsender.proposal.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Proposal](./ts-mls.proposal.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [senderLeafIndex](./ts-mls.proposalwithsender.senderleafindex.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number \| undefined
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

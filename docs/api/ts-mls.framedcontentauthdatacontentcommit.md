@@ -8,7 +8,7 @@
 
 ```typescript
 type FramedContentAuthDataContentCommit = {
-    contentType: "commit";
-    confirmationTag: Uint8Array;
-};
+  contentType: "commit"
+  confirmationTag: Uint8Array
+}
 ```

@@ -7,22 +7,27 @@
 **Signature:**
 
 ```typescript
-export declare function createApplicationMessage(state: ClientState, message: Uint8Array, cs: CiphersuiteImpl, authenticatedData?: Uint8Array): Promise<{
-    newState: {
-        secretTree: import("./secretTree").SecretTree;
-        groupContext: import("./groupContext").GroupContext;
-        keySchedule: import("./keySchedule").KeySchedule;
-        ratchetTree: import("./ratchetTree").RatchetTree;
-        privatePath: import("./privateKeyPath").PrivateKeyPath;
-        signaturePrivateKey: Uint8Array;
-        unappliedProposals: import("./unappliedProposals").UnappliedProposals;
-        confirmationTag: Uint8Array;
-        historicalReceiverData: Map<bigint, import("./clientState").EpochReceiverData>;
-        groupActiveState: import("./clientState").GroupActiveState;
-        clientConfig: import("./clientConfig").ClientConfig;
-    };
-    privateMessage: import("./privateMessage").PrivateMessage;
-}>;
+export declare function createApplicationMessage(
+  state: ClientState,
+  message: Uint8Array,
+  cs: CiphersuiteImpl,
+  authenticatedData?: Uint8Array,
+): Promise<{
+  newState: {
+    secretTree: import("./secretTree").SecretTree
+    groupContext: import("./groupContext").GroupContext
+    keySchedule: import("./keySchedule").KeySchedule
+    ratchetTree: import("./ratchetTree").RatchetTree
+    privatePath: import("./privateKeyPath").PrivateKeyPath
+    signaturePrivateKey: Uint8Array
+    unappliedProposals: import("./unappliedProposals").UnappliedProposals
+    confirmationTag: Uint8Array
+    historicalReceiverData: Map<bigint, import("./clientState").EpochReceiverData>
+    groupActiveState: import("./clientState").GroupActiveState
+    clientConfig: import("./clientConfig").ClientConfig
+  }
+  privateMessage: import("./privateMessage").PrivateMessage
+}>
 ```
 
 ## Parameters
@@ -31,74 +36,59 @@ export declare function createApplicationMessage(state: ClientState, message: Ui
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 message
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 authenticatedData
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -106,4 +96,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;{ newState: { secretTree: import("./secretTree").[SecretTree](./ts-mls.secrettree.md)<!-- -->; groupContext: import("./groupContext").[GroupContext](./ts-mls.groupcontext.md)<!-- -->; keySchedule: import("./keySchedule").[KeySchedule](./ts-mls.keyschedule.md)<!-- -->; ratchetTree: import("./ratchetTree").[RatchetTree](./ts-mls.ratchettree.md)<!-- -->; privatePath: import("./privateKeyPath").[PrivateKeyPath](./ts-mls.privatekeypath.md)<!-- -->; signaturePrivateKey: Uint8Array; unappliedProposals: import("./unappliedProposals").[UnappliedProposals](./ts-mls.unappliedproposals.md)<!-- -->; confirmationTag: Uint8Array; historicalReceiverData: Map&lt;bigint, import("./clientState").[EpochReceiverData](./ts-mls.epochreceiverdata.md)<!-- -->&gt;; groupActiveState: import("./clientState").[GroupActiveState](./ts-mls.groupactivestate.md)<!-- -->; clientConfig: import("./clientConfig").[ClientConfig](./ts-mls.clientconfig.md)<!-- -->; }; privateMessage: import("./privateMessage").[PrivateMessage](./ts-mls.privatemessage.md)<!-- -->; }&gt;
-

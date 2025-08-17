@@ -8,8 +8,8 @@
 
 ```typescript
 type FramedContentAuthDataContentApplicationOrProposal = {
-    contentType: Exclude<ContentTypeName, "commit">;
-};
+  contentType: Exclude<ContentTypeName, "commit">
+}
 ```
-**References:** [ContentTypeName](./ts-mls.contenttypename.md)
 
+**References:** [ContentTypeName](./ts-mls.contenttypename.md)

@@ -8,6 +8,6 @@
 
 ```typescript
 export type PublicKey = CryptoKey & {
-    type: "public";
-};
+  type: "public"
+}
 ```

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-newState: ClientState;
+newState: ClientState
 ```

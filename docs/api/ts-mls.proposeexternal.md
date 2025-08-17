@@ -7,7 +7,13 @@
 **Signature:**
 
 ```typescript
-export declare function proposeExternal(groupInfo: GroupInfo, proposal: Proposal, signaturePublicKey: Uint8Array, signaturePrivateKey: Uint8Array, cs: CiphersuiteImpl): Promise<MLSMessage>;
+export declare function proposeExternal(
+  groupInfo: GroupInfo,
+  proposal: Proposal,
+  signaturePublicKey: Uint8Array,
+  signaturePrivateKey: Uint8Array,
+  cs: CiphersuiteImpl,
+): Promise<MLSMessage>
 ```
 
 ## Parameters
@@ -16,86 +22,68 @@ export declare function proposeExternal(groupInfo: GroupInfo, proposal: Proposal
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 groupInfo
 
-
 </td><td>
 
 [GroupInfo](./ts-mls.groupinfo.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 proposal
 
-
 </td><td>
 
 [Proposal](./ts-mls.proposal.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 signaturePublicKey
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 signaturePrivateKey
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -103,4 +91,3 @@ cs
 **Returns:**
 
 Promise&lt;[MLSMessage](./ts-mls.mlsmessage.md)<!-- -->&gt;
-

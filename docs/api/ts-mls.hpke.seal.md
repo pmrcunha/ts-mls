@@ -19,74 +19,59 @@ seal(publicKey: PublicKey, plaintext: Uint8Array, info: Uint8Array, aad?: Uint8A
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 publicKey
 
-
 </td><td>
 
 [PublicKey](./ts-mls.publickey.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 plaintext
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 info
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 aad
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -94,4 +79,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;{ ct: Uint8Array; enc: Uint8Array; }&gt;
-

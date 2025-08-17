@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface KeyRetentionConfig 
+export interface KeyRetentionConfig
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface KeyRetentionConfig
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [maximumForwardRatchetSteps](./ts-mls.keyretentionconfig.maximumforwardratchetsteps.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [retainKeysForEpochs](./ts-mls.keyretentionconfig.retainkeysforepochs.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [retainKeysForGenerations](./ts-mls.keyretentionconfig.retainkeysforgenerations.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

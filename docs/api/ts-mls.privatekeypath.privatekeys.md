@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-privateKeys: Record<number, Uint8Array>;
+privateKeys: Record<number, Uint8Array>
 ```

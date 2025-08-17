@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-senderType: "new_member_proposal";
+senderType: "new_member_proposal"
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ClientConfig 
+export interface ClientConfig
 ```
 
 ## Properties
@@ -16,107 +16,82 @@ export interface ClientConfig
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [authService](./ts-mls.clientconfig.authservice.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [AuthenticationService](./ts-mls.authenticationservice.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [keyPackageEqualityConfig](./ts-mls.clientconfig.keypackageequalityconfig.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [KeyPackageEqualityConfig](./ts-mls.keypackageequalityconfig.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [keyRetentionConfig](./ts-mls.clientconfig.keyretentionconfig.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [KeyRetentionConfig](./ts-mls.keyretentionconfig.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [lifetimeConfig](./ts-mls.clientconfig.lifetimeconfig.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [LifetimeConfig](./ts-mls.lifetimeconfig.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [paddingConfig](./ts-mls.clientconfig.paddingconfig.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [PaddingConfig](./ts-mls.paddingconfig.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

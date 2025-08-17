@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-signer: number;
+signer: number
 ```

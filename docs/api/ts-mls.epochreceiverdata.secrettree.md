@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-secretTree: SecretTree;
+secretTree: SecretTree
 ```

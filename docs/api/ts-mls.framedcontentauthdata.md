@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type FramedContentAuthData = FramedContentAuthDataCommit | FramedContentAuthDataApplicationOrProposal;
+export type FramedContentAuthData = FramedContentAuthDataCommit | FramedContentAuthDataApplicationOrProposal
 ```
-**References:** [FramedContentAuthDataCommit](./ts-mls.framedcontentauthdatacommit.md)<!-- -->, [FramedContentAuthDataApplicationOrProposal](./ts-mls.framedcontentauthdataapplicationorproposal.md)
 
+**References:** [FramedContentAuthDataCommit](./ts-mls.framedcontentauthdatacommit.md)<!-- -->, [FramedContentAuthDataApplicationOrProposal](./ts-mls.framedcontentauthdataapplicationorproposal.md)

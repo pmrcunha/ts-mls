@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-aead: AeadAlgorithm;
+aead: AeadAlgorithm
 ```

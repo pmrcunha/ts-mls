@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-welcome: Welcome;
+welcome: Welcome
 ```

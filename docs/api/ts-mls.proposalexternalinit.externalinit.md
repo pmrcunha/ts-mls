@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-externalInit: ExternalInit;
+externalInit: ExternalInit
 ```

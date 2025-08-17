@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface FramedContentData 
+export interface FramedContentData
 ```
 
 ## Properties
@@ -16,90 +16,69 @@ export interface FramedContentData
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [authenticatedData](./ts-mls.framedcontentdata.authenticateddata.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [epoch](./ts-mls.framedcontentdata.epoch.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [groupId](./ts-mls.framedcontentdata.groupid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [sender](./ts-mls.framedcontentdata.sender.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Sender](./ts-mls.sender.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PrivateMessage 
+export interface PrivateMessage
 ```
 
 ## Properties
@@ -16,124 +16,95 @@ export interface PrivateMessage
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [authenticatedData](./ts-mls.privatemessage.authenticateddata.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [ciphertext](./ts-mls.privatemessage.ciphertext.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [contentType](./ts-mls.privatemessage.contenttype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ContentTypeName](./ts-mls.contenttypename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [encryptedSenderData](./ts-mls.privatemessage.encryptedsenderdata.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [epoch](./ts-mls.privatemessage.epoch.md)
 
-
 </td><td>
-
 
 </td><td>
 
 bigint
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [groupId](./ts-mls.privatemessage.groupid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

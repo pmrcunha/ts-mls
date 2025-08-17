@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type DefaultExtensionTypeName = keyof typeof defaultExtensionTypes;
+export type DefaultExtensionTypeName = keyof typeof defaultExtensionTypes
 ```
-**References:** [defaultExtensionTypes](./ts-mls.defaultextensiontypes.md)
 
+**References:** [defaultExtensionTypes](./ts-mls.defaultextensiontypes.md)

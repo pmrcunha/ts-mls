@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-capabilities: Capabilities;
+capabilities: Capabilities
 ```

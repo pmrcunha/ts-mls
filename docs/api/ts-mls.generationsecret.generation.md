@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-generation: number;
+generation: number
 ```

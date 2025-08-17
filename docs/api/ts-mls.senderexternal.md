@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface SenderExternal 
+export interface SenderExternal
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface SenderExternal
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [senderIndex](./ts-mls.senderexternal.senderindex.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [senderType](./ts-mls.senderexternal.sendertype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "external"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

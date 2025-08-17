@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type UnappliedProposals = Record<string, ProposalWithSender>;
+export type UnappliedProposals = Record<string, ProposalWithSender>
 ```
-**References:** [ProposalWithSender](./ts-mls.proposalwithsender.md)
 
+**References:** [ProposalWithSender](./ts-mls.proposalwithsender.md)

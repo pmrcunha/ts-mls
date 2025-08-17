@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type RatchetTree = (Node | undefined)[];
+export type RatchetTree = (Node | undefined)[]
 ```
-**References:** [Node](./ts-mls.node_2.md)
 
+**References:** [Node](./ts-mls.node_2.md)

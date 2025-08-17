@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-pskId: Uint8Array;
+pskId: Uint8Array
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export declare function createGroupInfoWithExternalPub(state: ClientState, cs: CiphersuiteImpl): Promise<GroupInfo>;
+export declare function createGroupInfoWithExternalPub(state: ClientState, cs: CiphersuiteImpl): Promise<GroupInfo>
 ```
 
 ## Parameters
@@ -16,44 +16,35 @@ export declare function createGroupInfoWithExternalPub(state: ClientState, cs: C
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -61,4 +52,3 @@ cs
 **Returns:**
 
 Promise&lt;[GroupInfo](./ts-mls.groupinfo.md)<!-- -->&gt;
-

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface UpdatePath 
+export interface UpdatePath
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface UpdatePath
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [leafNode](./ts-mls.updatepath.leafnode.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [LeafNodeCommit](./ts-mls.leafnodecommit.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [nodes](./ts-mls.updatepath.nodes.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [UpdatePathNode](./ts-mls.updatepathnode.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

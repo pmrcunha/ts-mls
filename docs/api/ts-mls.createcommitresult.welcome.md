@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-welcome: Welcome | undefined;
+welcome: Welcome | undefined
 ```

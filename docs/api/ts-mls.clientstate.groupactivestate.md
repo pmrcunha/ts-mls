@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-groupActiveState: GroupActiveState;
+groupActiveState: GroupActiveState
 ```

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalData: Uint8Array;
+proposalData: Uint8Array
 ```

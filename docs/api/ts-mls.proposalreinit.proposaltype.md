@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: "reinit";
+proposalType: "reinit"
 ```

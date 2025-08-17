@@ -8,6 +8,6 @@
 
 ```typescript
 export type PrivateKey = CryptoKey & {
-    type: "private";
-};
+  type: "private"
+}
 ```

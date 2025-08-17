@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-add: Add;
+add: Add
 ```

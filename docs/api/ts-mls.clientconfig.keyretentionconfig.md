@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-keyRetentionConfig: KeyRetentionConfig;
+keyRetentionConfig: KeyRetentionConfig
 ```

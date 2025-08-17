@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface SenderMember 
+export interface SenderMember
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface SenderMember
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [leafIndex](./ts-mls.sendermember.leafindex.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [senderType](./ts-mls.sendermember.sendertype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "member"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

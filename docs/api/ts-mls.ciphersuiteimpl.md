@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface CiphersuiteImpl 
+export interface CiphersuiteImpl
 ```
 
 ## Properties
@@ -16,124 +16,95 @@ export interface CiphersuiteImpl
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [hash](./ts-mls.ciphersuiteimpl.hash.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Hash](./ts-mls.hash.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [hpke](./ts-mls.ciphersuiteimpl.hpke.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Hpke](./ts-mls.hpke.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [kdf](./ts-mls.ciphersuiteimpl.kdf.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Kdf](./ts-mls.kdf.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [name](./ts-mls.ciphersuiteimpl.name.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [rng](./ts-mls.ciphersuiteimpl.rng.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Rng](./ts-mls.rng.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [signature](./ts-mls.ciphersuiteimpl.signature.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [Signature](./ts-mls.signature.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

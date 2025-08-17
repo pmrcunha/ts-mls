@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-retainKeysForEpochs: number;
+retainKeysForEpochs: number
 ```

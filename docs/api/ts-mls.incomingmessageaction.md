@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-export type IncomingMessageAction = "accept" | "reject";
+export type IncomingMessageAction = "accept" | "reject"
 ```

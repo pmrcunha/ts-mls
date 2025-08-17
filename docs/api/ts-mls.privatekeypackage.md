@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PrivateKeyPackage 
+export interface PrivateKeyPackage
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface PrivateKeyPackage
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [hpkePrivateKey](./ts-mls.privatekeypackage.hpkeprivatekey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [initPrivateKey](./ts-mls.privatekeypackage.initprivatekey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [signaturePrivateKey](./ts-mls.privatekeypackage.signatureprivatekey.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

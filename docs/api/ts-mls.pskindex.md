@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PskIndex 
+export interface PskIndex
 ```
 
 ## Methods
@@ -16,21 +16,16 @@ export interface PskIndex
 
 Method
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [findPsk(preSharedKeyId)](./ts-mls.pskindex.findpsk.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

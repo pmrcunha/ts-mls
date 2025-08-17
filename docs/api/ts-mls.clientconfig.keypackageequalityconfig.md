@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-keyPackageEqualityConfig: KeyPackageEqualityConfig;
+keyPackageEqualityConfig: KeyPackageEqualityConfig
 ```

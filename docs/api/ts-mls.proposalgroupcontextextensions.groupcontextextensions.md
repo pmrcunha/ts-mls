@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-groupContextExtensions: GroupContextExtensions;
+groupContextExtensions: GroupContextExtensions
 ```

@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface FramedContentApplicationData 
+export interface FramedContentApplicationData
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface FramedContentApplicationData
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [applicationData](./ts-mls.framedcontentapplicationdata.applicationdata.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [contentType](./ts-mls.framedcontentapplicationdata.contenttype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "application"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

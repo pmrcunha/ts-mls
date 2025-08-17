@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface ExternalInit 
+export interface ExternalInit
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface ExternalInit
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [kemOutput](./ts-mls.externalinit.kemoutput.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

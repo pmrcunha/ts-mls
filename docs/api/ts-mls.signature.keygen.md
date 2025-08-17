@@ -12,7 +12,7 @@ keygen(): Promise<{
         signKey: Uint8Array;
     }>;
 ```
+
 **Returns:**
 
 Promise&lt;{ publicKey: Uint8Array; signKey: Uint8Array; }&gt;
-

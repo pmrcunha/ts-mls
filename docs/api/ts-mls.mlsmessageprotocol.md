@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface MlsMessageProtocol 
+export interface MlsMessageProtocol
 ```
 
 ## Properties
@@ -16,39 +16,30 @@ export interface MlsMessageProtocol
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [version](./ts-mls.mlsmessageprotocol.version.md)
 
-
 </td><td>
-
 
 </td><td>
 
 [ProtocolVersionName](./ts-mls.protocolversionname.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

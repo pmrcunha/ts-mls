@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-encryptedGroupSecrets: HPKECiphertext;
+encryptedGroupSecrets: HPKECiphertext
 ```

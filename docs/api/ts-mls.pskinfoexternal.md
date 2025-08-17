@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface PSKInfoExternal 
+export interface PSKInfoExternal
 ```
 
 ## Properties
@@ -16,56 +16,43 @@ export interface PSKInfoExternal
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [pskId](./ts-mls.pskinfoexternal.pskid.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [psktype](./ts-mls.pskinfoexternal.psktype.md)
 
-
 </td><td>
-
 
 </td><td>
 
 "external"
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

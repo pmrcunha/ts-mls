@@ -8,11 +8,11 @@
 
 ```typescript
 type Ciphersuite = {
-    hash: HashAlgorithm;
-    hpke: HpkeAlgorithm;
-    signature: SignatureAlgorithm;
-    name: CiphersuiteName;
-};
+  hash: HashAlgorithm
+  hpke: HpkeAlgorithm
+  signature: SignatureAlgorithm
+  name: CiphersuiteName
+}
 ```
-**References:** [HashAlgorithm](./ts-mls.hashalgorithm.md)<!-- -->, [HpkeAlgorithm](./ts-mls.hpkealgorithm.md)<!-- -->, [SignatureAlgorithm](./ts-mls.signaturealgorithm.md)<!-- -->, [CiphersuiteName](./ts-mls.ciphersuitename.md)
 
+**References:** [HashAlgorithm](./ts-mls.hashalgorithm.md)<!-- -->, [HpkeAlgorithm](./ts-mls.hpkealgorithm.md)<!-- -->, [SignatureAlgorithm](./ts-mls.signaturealgorithm.md)<!-- -->, [CiphersuiteName](./ts-mls.ciphersuitename.md)

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-rng: Rng;
+rng: Rng
 ```

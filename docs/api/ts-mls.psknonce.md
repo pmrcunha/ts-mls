@@ -8,6 +8,6 @@
 
 ```typescript
 type PSKNonce = {
-    pskNonce: Uint8Array;
-};
+  pskNonce: Uint8Array
+}
 ```

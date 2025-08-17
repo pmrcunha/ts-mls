@@ -7,7 +7,14 @@
 **Signature:**
 
 ```typescript
-export declare function branchGroup(state: ClientState, keyPackage: KeyPackage, privateKeyPackage: PrivateKeyPackage, memberKeyPackages: KeyPackage[], newGroupId: Uint8Array, cs: CiphersuiteImpl): Promise<CreateCommitResult>;
+export declare function branchGroup(
+  state: ClientState,
+  keyPackage: KeyPackage,
+  privateKeyPackage: PrivateKeyPackage,
+  memberKeyPackages: KeyPackage[],
+  newGroupId: Uint8Array,
+  cs: CiphersuiteImpl,
+): Promise<CreateCommitResult>
 ```
 
 ## Parameters
@@ -16,100 +23,79 @@ export declare function branchGroup(state: ClientState, keyPackage: KeyPackage, 
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 state
 
-
 </td><td>
 
 [ClientState](./ts-mls.clientstate.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeyPackage
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 memberKeyPackages
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 newGroupId
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -117,4 +103,3 @@ cs
 **Returns:**
 
 Promise&lt;[CreateCommitResult](./ts-mls.createcommitresult.md)<!-- -->&gt;
-

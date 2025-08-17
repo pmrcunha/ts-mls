@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: "psk";
+proposalType: "psk"
 ```

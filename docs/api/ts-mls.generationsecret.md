@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export interface GenerationSecret 
+export interface GenerationSecret
 ```
 
 ## Properties
@@ -16,73 +16,56 @@ export interface GenerationSecret
 
 Property
 
-
 </th><th>
 
 Modifiers
-
 
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 [generation](./ts-mls.generationsecret.generation.md)
 
-
 </td><td>
-
 
 </td><td>
 
 number
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [secret](./ts-mls.generationsecret.secret.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Uint8Array
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 [unusedGenerations](./ts-mls.generationsecret.unusedgenerations.md)
 
-
 </td><td>
-
 
 </td><td>
 
 Record&lt;number, Uint8Array&gt;
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
-

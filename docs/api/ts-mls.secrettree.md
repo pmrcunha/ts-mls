@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type SecretTree = SecretTreeNode[];
+export type SecretTree = SecretTreeNode[]
 ```
-**References:** [SecretTreeNode](./ts-mls.secrettreenode.md)
 
+**References:** [SecretTreeNode](./ts-mls.secrettreenode.md)

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-wireformat: "mls_welcome";
+wireformat: "mls_welcome"
 ```

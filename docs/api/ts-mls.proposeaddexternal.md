@@ -7,7 +7,13 @@
 **Signature:**
 
 ```typescript
-export declare function proposeAddExternal(groupInfo: GroupInfo, keyPackage: KeyPackage, privateKeyPackage: PrivateKeyPackage, cs: CiphersuiteImpl, authenticatedData?: Uint8Array): Promise<MLSMessage>;
+export declare function proposeAddExternal(
+  groupInfo: GroupInfo,
+  keyPackage: KeyPackage,
+  privateKeyPackage: PrivateKeyPackage,
+  cs: CiphersuiteImpl,
+  authenticatedData?: Uint8Array,
+): Promise<MLSMessage>
 ```
 
 ## Parameters
@@ -16,88 +22,70 @@ export declare function proposeAddExternal(groupInfo: GroupInfo, keyPackage: Key
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 groupInfo
 
-
 </td><td>
 
 [GroupInfo](./ts-mls.groupinfo.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 keyPackage
 
-
 </td><td>
 
 [KeyPackage](./ts-mls.keypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 privateKeyPackage
 
-
 </td><td>
 
 [PrivateKeyPackage](./ts-mls.privatekeypackage.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 authenticatedData
 
-
 </td><td>
 
 Uint8Array
 
-
 </td><td>
 
 _(Optional)_
-
 
 </td></tr>
 </tbody></table>
@@ -105,4 +93,3 @@ _(Optional)_
 **Returns:**
 
 Promise&lt;[MLSMessage](./ts-mls.mlsmessage.md)<!-- -->&gt;
-

@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-contentType: ContentTypeName;
+contentType: ContentTypeName
 ```

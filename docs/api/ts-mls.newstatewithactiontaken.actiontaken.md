@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-actionTaken: IncomingMessageAction;
+actionTaken: IncomingMessageAction
 ```

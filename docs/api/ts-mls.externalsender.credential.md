@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-credential: Credential;
+credential: Credential
 ```

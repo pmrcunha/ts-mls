@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-confirmationKey: Uint8Array;
+confirmationKey: Uint8Array
 ```

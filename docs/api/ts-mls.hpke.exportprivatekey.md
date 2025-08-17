@@ -16,30 +16,24 @@ exportPrivateKey(k: PrivateKey): Promise<Uint8Array>;
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 k
 
-
 </td><td>
 
 [PrivateKey](./ts-mls.privatekey.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -47,4 +41,3 @@ k
 **Returns:**
 
 Promise&lt;Uint8Array&gt;
-

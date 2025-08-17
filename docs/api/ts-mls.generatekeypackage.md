@@ -9,10 +9,16 @@ Generates a key package from a Credential.
 **Signature:**
 
 ```typescript
-export declare function generateKeyPackage(credential: Credential, capabilities: Capabilities, lifetime: Lifetime, extensions: Extension[], cs: CiphersuiteImpl): Promise<{
-    publicPackage: KeyPackage;
-    privatePackage: PrivateKeyPackage;
-}>;
+export declare function generateKeyPackage(
+  credential: Credential,
+  capabilities: Capabilities,
+  lifetime: Lifetime,
+  extensions: Extension[],
+  cs: CiphersuiteImpl,
+): Promise<{
+  publicPackage: KeyPackage
+  privatePackage: PrivateKeyPackage
+}>
 ```
 
 ## Parameters
@@ -21,86 +27,68 @@ export declare function generateKeyPackage(credential: Credential, capabilities:
 
 Parameter
 
-
 </th><th>
 
 Type
 
-
 </th><th>
 
 Description
-
 
 </th></tr></thead>
 <tbody><tr><td>
 
 credential
 
-
 </td><td>
 
 [Credential](./ts-mls.credential_2.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 capabilities
 
-
 </td><td>
 
 [Capabilities](./ts-mls.capabilities.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 lifetime
 
-
 </td><td>
 
 [Lifetime](./ts-mls.lifetime.md)
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 extensions
 
-
 </td><td>
 
 [Extension](./ts-mls.extension.md)<!-- -->\[\]
 
-
 </td><td>
-
 
 </td></tr>
 <tr><td>
 
 cs
 
-
 </td><td>
 
 [CiphersuiteImpl](./ts-mls.ciphersuiteimpl.md)
 
-
 </td><td>
-
 
 </td></tr>
 </tbody></table>
@@ -108,4 +96,3 @@ cs
 **Returns:**
 
 Promise&lt;{ publicPackage: [KeyPackage](./ts-mls.keypackage.md)<!-- -->; privatePackage: [PrivateKeyPackage](./ts-mls.privatekeypackage.md)<!-- -->; }&gt;
-

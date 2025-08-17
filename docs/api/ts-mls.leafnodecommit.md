@@ -7,7 +7,7 @@
 **Signature:**
 
 ```typescript
-export type LeafNodeCommit = LeafNode & LeafNodeInfoCommit;
+export type LeafNodeCommit = LeafNode & LeafNodeInfoCommit
 ```
-**References:** [LeafNode](./ts-mls.leafnode.md)<!-- -->, [LeafNodeInfoCommit](./ts-mls.leafnodeinfocommit.md)
 
+**References:** [LeafNode](./ts-mls.leafnode.md)<!-- -->, [LeafNodeInfoCommit](./ts-mls.leafnodeinfocommit.md)

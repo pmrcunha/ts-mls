@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-update: Update;
+update: Update
 ```

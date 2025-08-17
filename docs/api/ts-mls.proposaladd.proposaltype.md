@@ -7,5 +7,5 @@
 **Signature:**
 
 ```typescript
-proposalType: "add";
+proposalType: "add"
 ```
